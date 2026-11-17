@@ -21,7 +21,7 @@
   - **EPS-BAT-01**: zaliaty natrvalo, min. 4 Ah, životnosť 10 rokov, vodiče, [preklad](navrhy/EPS-BAT-01_dopyt_sk.md)
   - **EPS-BAT-02**: výmenný pack (trieda ER26500 + SPC1520, veľkosť C), min. 8 Ah, životnosť 3 roky, kontakty bez vodičov, [preklad](navrhy/EPS-BAT-02_dopyt_sk.md)
   - Sunj Energy má obe podklady. **Rozhodnutie 2026-11-17:** pôvodné dopyty BAT-01 a BAT-02 už neplatia. Nová verzia zariadenia je krabica namiesto rúrky a je navrhnutá na hotový štandardný pack Sunj Energy (ER26500H + EPC1520, s káblom a konektorom). Dizajn si prispôsobíme my.
-- Požadované batérie (2026-11-17): dve aplikácie, **aplikácia 1: 8,5 Ah + SPC**, **aplikácia 2: aspoň 19 Ah + SPC**. Priorita: čo najväčšia kapacita v čo najmenšom púzdre. Konektor: **JST PH 2.0** (2 piny, rozstup 2,0 mm), **+ na pine 1, − na pine 2**.
+- Požadované batérie (2026-11-17): dve aplikácie, **aplikácia 1: 8,5 Ah + SPC**, **aplikácia 2: aspoň 19 Ah + SPC**. Priorita: čo najväčšia kapacita v čo najmenšom púzdre. Konektor: **JST XH 2,5 mm** (na PCB B2B-XH-A(LF)(SN)); potrebný protikus **XH-2P**; **+ na pine 1, − na pine 2** (overiť podľa PCB). Pôvodne uvádzaný PH 2.0 bol omyl.
 - Špecifikácie od Sunj (2026-11-17): [ER26500H + EPC1520, 8,5 Ah](dokumenty/SUNJ_ER26500H-EPC1520_specifikacia_sk.md) a [ER34615H + EPC1520, 19 Ah](dokumenty/SUNJ_ER34615H-EPC1520_specifikacia_sk.md); kábel 100 mm, konektor PH-2P 2,0 mm. Anne ponúka vodotesnú úpravu podľa našich požiadaviek ([záznam](komunikacia/2026-11-17_whatsapp_anne-specifikacie-a-vodotesnost.md)).
 - Predpokladané množstvá: vzorky 20 ks (Q1 2027), séria 1 000 – 3 000 ks ročne (pri BAT-02 plus náhradné packy)
 - Účel / projekt: doplniť

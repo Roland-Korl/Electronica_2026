@@ -134,3 +134,32 @@ Potrebujeme dve veľkosti: asi 8,5 Ah (ako váš ER26500H + EPC1520) a aspoň 19
 Môžete mi tiež poslať zoznam všetkých vašich Li-SOCl2 batérií s kondenzátorom SPC vo všetkých veľkostiach a kapacitách? Pri každom type pošlite kapacitu, rozmery, hmotnosť a impulzný výkon pri −30 °C, ak ho máte. Zaujíma nás aj verzia, kde sú článok a kondenzátor vedľa seba a nie na sebe, lebo taký pack by bol kratší. Vyberieme tie, ktoré sa hodia do nášho zariadenia, a potom sa opýtam na ceny.
 
 Veľmi pekne ďakujem!
+
+
+## OPRAVA konektora: nie PH, ale XH (2026-11-17, 09:53–09:59)
+
+Roland si overil konektor na vlastnej doske (PCB): je to **JST B2B-XH-A(LF)(SN)**, teda séria **XH s rozstupom 2,5 mm**, nie PH 2.0. Všetky predchádzajúce zmienky o „JST PH 2.0" a „PH-2P" ako našom konektore v tomto súbore a v návrhoch odpovedí sú **zastarané**. Potrebný protikus (káblová strana) je **XH-2P** (puzdro XHP-2), ktorý je aj v katalógu konektorov od Anne. PH (2,0 mm) a XH (2,5 mm) nie sú vzájomne zameniteľné.
+
+Zdroj správ: [snímka obrazovky](../obrazky/2026-11-17_whatsapp-anne-konektor-a-pulzy.png)
+
+### Správy od Anne (originál)
+
+> [Obrázok: katalóg konektorov s označeným PH-2P] (09:53)
+> Is the connector the same as the one in the picture? (09:54)
+> The capacitor can be placed on the side of the battery; I will provide you with the drawings shortly. (09:56)
+> Does your equipment operate at 0.6 A pulses (10 ms) -30°C all the time? (09:59)
+> Could you provide more details regarding the operating status of your equipment? Additionally, for the 20 sets of samples, could you please provide your full address and postal code? (09:59)
+
+### Preklad
+
+> Je konektor rovnaký ako ten na obrázku?
+> Kondenzátor sa dá umiestniť vedľa batérie; čoskoro vám pošlem výkresy.
+> Pracuje vaše zariadenie neustále s impulzmi 0,6 A (10 ms) pri −30 °C?
+> Môžete poskytnúť viac podrobností o prevádzkovom stave vášho zariadenia? A pre 20 súprav vzoriek, prosím, uveďte vašu úplnú adresu a PSČ.
+
+### Čo z toho vyplýva
+
+- **Konektor:** nie je rovnaký, treba opraviť na XH-2P.
+- **Kondenzátor vedľa článku:** Anne potvrdila, že sa to dá; pošle výkresy.
+- **Impulzy:** pýta sa, či je zariadenie neustále pri −30 °C s impulzmi 0,6 A. Z pôvodných dopytov: impulzy 0,6 A po dobu 10 ms sa vyskytujú len pri rádiovej komunikácii (BAT-02: raz denne asi 1 min; BAT-01: raz za 48 h asi 20 s), medzitým malá záťaž (BAT-02: priemer ≈ 160 µA s impulzmi ≈ 30 mA po dobu ≈ 2 ms každú sekundu). −30 °C je spodná hranica prevádzkovej teploty, nie trvalý stav. **Pred odoslaním treba overiť, že tieto údaje platia aj pre nový model.**
+- **Adresa pre 20 vzoriek:** zatiaľ nepripraviť; adresu poslať až po výbere packu a dohode o cene.
