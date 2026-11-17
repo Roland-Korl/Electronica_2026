@@ -17,8 +17,11 @@
 
 ## Čo nás zaujíma
 
-- Produkty: špeciálny batériový pack (battery pack), na ktorý sme sa pýtali. Presná špecifikácia v repe zatiaľ nie je.
-- Predpokladané množstvá: doplniť
+- Produkty: primárny batériový pack Li-SOCl2 + hybridný impulzný kondenzátor (HLC / SPC) do zaliateho vonkajšieho zariadenia s rádiovým modulom. Máme dva dopyty (nemecky, slovenský preklad vedľa):
+  - **EPS-BAT-01**: zaliaty natrvalo, min. 4 Ah, životnosť 10 rokov, vodiče, [preklad](navrhy/EPS-BAT-01_dopyt_sk.md)
+  - **EPS-BAT-02**: výmenný pack (trieda ER26500 + SPC1520, veľkosť C), min. 8 Ah, životnosť 3 roky, kontakty bez vodičov, [preklad](navrhy/EPS-BAT-02_dopyt_sk.md)
+  - Ktorý z nich Sunj Energy vyhodnocuje, treba potvrdiť (v správe od Anne je len „special battery pack").
+- Predpokladané množstvá: vzorky 20 ks (Q1 2027), séria 1 000 – 3 000 ks ročne (pri BAT-02 plus náhradné packy)
 - Účel / projekt: doplniť
 
 ## Obchodné podmienky
@@ -35,7 +38,7 @@
 
 ## Otvorené otázky
 
-- [ ] Čo presne sme pýtali (kapacita, napätie, rozmery, množstvo)? Doplniť podľa vlastných poznámok z veľtrhu.
+- [ ] Ktorý dopyt (BAT-01 alebo BAT-02, alebo oba) dostali od nás?
 - [ ] Kedy budú mať výsledok vyhodnotenia?
 - [ ] Získať e-mail a priezvisko Anne, prípadne vizitku.
 - [ ] Zistiť web firmy a overiť ju (číslo nie je v kontaktoch, čínsky dodávateľ).
