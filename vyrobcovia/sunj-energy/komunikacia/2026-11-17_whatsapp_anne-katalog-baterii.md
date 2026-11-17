@@ -176,3 +176,9 @@ Preklad:
 Návrh odpovede (po anglicky):
 
 > Thank you, Anne. Please send me the quotes tomorrow for the samples (both DHL express and door-to-door air freight) and for bulk orders by sea freight (1,000 and 3,000 pieces). Please also tell me if the door-to-door price includes import duty and import VAT, or if we pay them separately in Germany.
+
+## Rozlúčka (15:18)
+
+> ok, my friend 😊😊 / Have a nice day ☺️
+
+Preklad: „Dobre, priateľ môj. Pekný deň." Dnes už nič ďalšie; zajtra (2026-11-18) ponuky, výkresy a doprava.
