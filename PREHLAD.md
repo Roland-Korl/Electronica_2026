@@ -4,4 +4,4 @@ Aktualizovať ručne po každej zmene stavu. Stavy: `kontakt`, `rokovanie`, `pon
 
 | Výrobca | Stav | Kontakt | Produkty / záujem | Ďalší krok | Termín | Zložka |
 |---|---|---|---|---|---|---|
-| _príklad: Acme Electronics_ | kontakt | Jan Novák | senzory teploty | poslať dopyt | 2026-11-24 | [acme-electronics](vyrobcovia/acme-electronics/) |
+| Sunj Energy (Čína) | kontakt | Anne (WhatsApp +86 133 3379 5798) | špeciálny batériový pack | odpovedať a opýtať sa na termín vyhodnotenia | doplniť | [sunj-energy](vyrobcovia/sunj-energy/) |
