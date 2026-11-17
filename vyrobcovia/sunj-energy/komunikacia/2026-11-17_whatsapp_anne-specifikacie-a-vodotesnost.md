@@ -56,3 +56,19 @@ Stále otvorené: cena, dodacia lehota vzoriek, rozmery ER34615H packu, polarita
 ## Ďalšia fotka (vzorka ER26500H s káblom a konektorom)
 
 Pack ER26500H zblízka: z čierneho plastového krytu na vrchu vychádza červený a čierny vodič, ktorý končí **malým bielym dvojpólovým konektorom** (plastové puzdro, na konci vodičov čierna zmršťovacia bužírka). Vzhľad zodpovedá káblovému puzdru typu JST PH, ale z fotky to nedokážem potvrdiť; polarita pinov sa na fotke nedá určiť (vodiče sú červený a čierny, pravdepodobne červený +, čierny −). Fotka nie je uložená v repe.
+
+## Ďalšia správa: konektory
+
+> There are many types of connectors, and they generally need to be compatible with your equipment.
+
+Preklad:
+
+> Existuje veľa typov konektorov a zvyčajne musia byť kompatibilné s vaším zariadením.
+
+Poznámka: Anne tým naznačuje, že musíme jasne povedať, aký konektor máme my. Ich špecifikácia uvádza **PH-2P 2,0 mm** a my používame **JST PH 2.0**, takže typ sedí; treba už len potvrdiť, že ich puzdro je správny protikus (káblová strana) k nášmu a že **pin 1 = +, pin 2 = −**.
+
+Návrh odpovede (po anglicky):
+
+> Yes, I understand. Our device uses a JST PH 2.0 connector (2 pins, 2.0 mm pitch). Your specification shows PH-2P 2.0 mm, so this is what we need. Please use the matching cable-side housing for it, with plus on pin 1 and minus on pin 2. Could you please confirm this?
+
+Po slovensky: Áno, rozumiem. Naše zariadenie používa konektor JST PH 2.0 (2 piny, rozstup 2,0 mm). Vaša špecifikácia uvádza PH-2P 2,0 mm, takže presne toto potrebujeme. Použite, prosím, zodpovedajúce káblové puzdro s plusom na pine 1 a mínusom na pine 2. Môžete to, prosím, potvrdiť?
