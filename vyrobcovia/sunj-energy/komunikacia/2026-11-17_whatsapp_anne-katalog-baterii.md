@@ -133,3 +133,21 @@ Preklad:
 > Dnes je už neskoro; ponuky vám pošlem zajtra.
 
 **Čakáme na 2026-11-18:** cenové ponuky, aktualizované výkresy (rúrka, konektor XH-2P, hrúbka ER34615H), náklady na dopravu. Naše otvorené otázky (množstvo pri cene, kábel a konektor v cene, Incoterms, napätie pri −30 °C) zatiaľ bez odpovede.
+
+## Otázka na dopravu väčších objemov
+
+Originál:
+
+> For bulk shipments, do you prefer sea freight or air freight?
+
+Preklad:
+
+> Pri väčších zásielkach, uprednostňujete námornú alebo leteckú dopravu?
+
+Poznámky (môj odhad, overiť u špeditéra):
+- Hmotnosť podľa špecifikácií: ER26500H + EPC1520 max. 65 g, ER34615H + EPC1520 max. 120 g. Pri 1 000 ks je to asi 65 kg resp. 120 kg, pri 3 000 ks asi 195 kg resp. 360 kg (bez obalu).
+- Primárne lítiové batérie (UN 3090) sú nebezpečný tovar triedy 9. Letecky sa zvyčajne prepravujú len v nákladnom lietadle a s obmedzeniami, námorná doprava je možná, ale trvá približne 5–7 týždňov. Podmienky treba potvrdiť u špeditéra, ktorý vie prepravu nebezpečného tovaru.
+
+Návrh odpovede (po anglicky), kým sa Roland nerozhodne:
+
+> For the first orders we would prefer air freight, because the quantities are small and we need them quickly. Later, for regular larger orders, we can consider sea freight. Could you please quote both, for 1,000 and 3,000 pieces, to our address in Germany, and tell me which freight forwarder you use for lithium batteries (UN 3090)?
