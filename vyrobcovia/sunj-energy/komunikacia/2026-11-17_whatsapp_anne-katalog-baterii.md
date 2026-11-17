@@ -55,3 +55,22 @@ Anne poslala dva výkresy, o ktorých písala (správa 09:56: kondenzátor sa d�
 - [ER34615H + EPC1520 vedľa seba](../navrhy/2026-11-17_sunj_vykres_ER34615H-EPC1520-vedla-seba.pdf): **63 × 48 mm**, hrúbka nie je zakótovaná, kábel 100 ± 5 mm
 
 Preklad výkresov, porovnanie s katalógom a poznámky: [prehľad výkresov](../navrhy/SUNJ_vykresy_vedla-seba_sk.md). Dôležité: na výkresoch **nie je určený konektor** (XH-2P treba objednať výslovne) a pri ER34615H chýba hrúbka packu.
+
+## Rozhodnutie (Roland): potrebujeme oba typy
+
+Roland potrebuje **obe konštrukcie**: rovnú rúrku (kondenzátor na článku) aj verziu s kondenzátorom vedľa článku, pre obe kapacity. Ide teda o štyri packy s EPC1520:
+
+| | rovná rúrka (kondenzátor na článku, z katalógu) | kondenzátor vedľa článku (z výkresov) |
+|---|---|---|
+| 8,5 Ah | ER26500H + EPC1520, Ø29 × 67 mm | ER26500H + EPC1520, 52 × 40 × 26 mm |
+| 19 Ah | ER34615H + EPC1520, Ø34 × 78 mm | ER34615H + EPC1520, 63 × 48 mm (hrúbka chýba) |
+
+Správa pre Anne (po anglicky, bez odrážok):
+
+Thank you very much for the drawings. We need both types of the packs: the straight tube version (capacitor on top of the battery, as in your catalog) and the version with the EPC1520 capacitor beside the battery (as in your drawings). So we need four packs: ER26500H + EPC1520 for 8.5 Ah in both versions, and ER34615H + EPC1520 for 19 Ah in both versions.
+
+Please change two things. First, at the end of the cable, please fit an XH-2P housing (JST XH, 2.5 mm pitch) with the red wire (plus) on pin 1 and the black wire (minus) on pin 2. Your ER26500H drawing shows bare terminals and the ER34615H drawing does not show the connector type. Second, please add the thickness of the ER34615H pack to the drawing, because it is not marked. Could you also send me the drawing of the straight tube version of both packs with the cable and the connector?
+
+Could you please send me the prices of all four packs for 100 / 1,000 / 5,000 pieces, with the XH-2P connector, and the delivery time for 20 samples? We also still need the voltage of the pack during 0.6 A pulses (10 ms) at -30 C.
+
+Thank you very much!
