@@ -26,6 +26,17 @@
 - Predpokladané množstvá: vzorky 20 ks (Q1 2027), séria 1 000 – 3 000 ks ročne (pri BAT-02 plus náhradné packy)
 - Účel / projekt: doplniť
 
+## Katalóg a hotové packy (2026-11-17)
+
+Podrobnosti: [prehľad katalógu](dokumenty/SUNJ_katalog_vyber_sk.md), [kondenzátory EPC1520 / EPC1550](dokumenty/SUNJ_EPC1520_EPC1550_specifikacia_sk.md), [záznam komunikácie](komunikacia/2026-11-17_whatsapp_anne-katalog-baterii.md).
+
+| | kondenzátor na článku | kondenzátor vedľa článku |
+|---|---|---|
+| 8,5 Ah | ER26500H + EPC1520, Ø29 × 67 mm | ER26500H + EPC1550, 55 × 44 × 28 mm |
+| 19 Ah | ER34615H + EPC1520, Ø34 × 78 mm | ER34615H + EPC1550, 64 × 55 × 35 mm |
+
+Firma: SUNJ Energy (Luoyang) Co., Ltd, založená 2017, areál 33 300 m², ISO 9001 / 45001 / 14001, výrobky UL, CE, UN 38.3, RoHS (podľa katalógu, neoverené). Web www.sunj.com.
+
 ## Obchodné podmienky
 
 - Cena / cenník: zatiaľ nie
