@@ -90,3 +90,13 @@ Návrh odpovede (po anglicky):
 > One more question: do you also have an 8.5 Ah pack where the cell and the capacitor are not stacked in one long tube, but placed side by side? That means the big cell (ER26500H) and the small capacitor (EPC1520) next to each other. We would like a shorter pack. If yes, please send the drawing with dimensions, the price and the delivery time.
 
 Po slovensky: Ďakujem za prehľad konektorov. Používame PH-2P (JST PH 2.0), s červeným vodičom (plus) na pine 1 a čiernym vodičom (mínus) na pine 2. Potvrďte, prosím. Ešte jedna otázka: máte aj pack 8,5 Ah, kde nie sú článok a kondenzátor naskladané v jednej dlhej rúrke, ale uložené vedľa seba? Teda veľký článok (ER26500H) a malý kondenzátor (EPC1520) vedľa seba. Chceli by sme kratší pack. Ak áno, pošlite výkres s rozmermi, cenu a dodaciu lehotu.
+
+## Nápad: vypýtať kompletný zoznam packov
+
+Roland chce, aby Anne poslala **všetky batérie Li-SOCl2 + SPC, ktoré majú** (článok s impulzným kondenzátorom); Roland si vyberie vhodné a až potom sa pýtame na ceny.
+
+Návrh odpovede (po anglicky):
+
+> Could you please send me a list of all your Li-SOCl2 batteries with an SPC capacitor, in all sizes and capacities (cell and capacitor stacked, and side by side if you have it)? For each type, please send the datasheet or at least the capacity, the dimensions and the weight. I will choose the ones that fit our device, and then I will ask you for the prices.
+
+Po slovensky: Môžete mi, prosím, poslať zoznam všetkých vašich Li-SOCl2 batérií s kondenzátorom SPC vo všetkých veľkostiach a kapacitách (článok a kondenzátor na sebe a ak máte, aj vedľa seba)? Pri každom type pošlite dátový list alebo aspoň kapacitu, rozmery a hmotnosť. Vyberiem tie, ktoré sa hodia do nášho zariadenia, a potom sa vás opýtam na ceny.
