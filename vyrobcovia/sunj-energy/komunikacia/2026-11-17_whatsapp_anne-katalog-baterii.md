@@ -151,3 +151,28 @@ Poznámky (môj odhad, overiť u špeditéra):
 Návrh odpovede (po anglicky), kým sa Roland nerozhodne:
 
 > For the first orders we would prefer air freight, because the quantities are small and we need them quickly. Later, for regular larger orders, we can consider sea freight. Could you please quote both, for 1,000 and 3,000 pieces, to our address in Germany, and tell me which freight forwarder you use for lithium batteries (UN 3090)?
+
+## Možnosti dopravy od Anne (15:09–15:11)
+
+Originál:
+
+> For samples, you can choose either door-to-door air freight or door-to-door delivery via DHL. Express shipping typically takes 7–10 days, while door-to-door air freight takes 15–20 days. (15:09)
+> For bulk shipments, sea freight can be used; while this method involves a longer transit time, it offers lower shipping costs. (15:10)
+> I can provide you with quotes for different shipping methods tomorrow. Shipping costs are calculated separately. (15:11)
+
+Preklad:
+
+> Pri vzorkách si môžete vybrať buď leteckú dopravu „od dverí k dverám", alebo doručenie „od dverí k dverám" cez DHL. Expresná zásielka zvyčajne trvá 7–10 dní, letecká doprava od dverí k dverám 15–20 dní.
+> Pri väčších zásielkach sa dá použiť námorná doprava; trvá dlhšie, ale má nižšie náklady na dopravu.
+> Zajtra vám môžem poslať ponuky pre rôzne spôsoby dopravy. Náklady na dopravu sa počítajú zvlášť.
+
+| | Vzorky | Veľké zásielky |
+|---|---|---|
+| Možnosti | DHL expres (7–10 dní) alebo letecká doprava „od dverí k dverám" (15–20 dní) | námorná (dlhšie, lacnejšie) |
+| Náklady | zvlášť, ponuka zajtra | zvlášť, ponuka zajtra |
+
+**Otvorené:** „door-to-door" nemusí znamenať, že cena zahŕňa clo a dovozné DPH; treba sa opýtať (DAP alebo DDP). Cena dopravy sa počíta zvlášť od ceny batérií.
+
+Návrh odpovede (po anglicky):
+
+> Thank you, Anne. Please send me the quotes tomorrow for the samples (both DHL express and door-to-door air freight) and for bulk orders by sea freight (1,000 and 3,000 pieces). Please also tell me if the door-to-door price includes import duty and import VAT, or if we pay them separately in Germany.
