@@ -72,3 +72,21 @@ Návrh odpovede (po anglicky):
 > Yes, I understand. Our device uses a JST PH 2.0 connector (2 pins, 2.0 mm pitch). Your specification shows PH-2P 2.0 mm, so this is what we need. Please use the matching cable-side housing for it, with plus on pin 1 and minus on pin 2. Could you please confirm this?
 
 Po slovensky: Áno, rozumiem. Naše zariadenie používa konektor JST PH 2.0 (2 piny, rozstup 2,0 mm). Vaša špecifikácia uvádza PH-2P 2,0 mm, takže presne toto potrebujeme. Použite, prosím, zodpovedajúce káblové puzdro s plusom na pine 1 a mínusom na pine 2. Môžete to, prosím, potvrdiť?
+
+## Katalóg konektorov od Anne
+
+Anne poslala obrázok s prehľadom 2-pólových konektorov, ktoré vedia pripojiť: [katalóg konektorov](../dokumenty/2026-11-17_sunj_katalog-konektorov-2p.jpg). Sú v ňom napríklad SM-2P, 5264-2P, **PH-2P**, EH-2P, 51021-2P, XH-2P, JST-2P, VA-2P, 2510-2P, 43645-0200 (Molex), EDG-3P 5,08 a ďalšie. Pri každom sú číslované piny (2 1) a farby vodičov.
+
+Pri **PH-2P** (náš typ) je na obrázku červený vodič pri pine 1 a čierny pri pine 2. To by sedelo s naším požiadavkou (+ na pine 1, − na pine 2), ak je červený +. Z obrázka to neviem potvrdiť s istotou, treba, aby to Anne písomne potvrdila.
+
+## Nová otázka: pack 8,5 Ah s článkom a kondenzátorom vedľa seba
+
+Roland chce zistiť, či majú batériu 8,5 Ah, ktorá **nie je jeden dlhý valec**, ale **dva valce vedľa seba**: hlavný veľký a tučný (článok) a vedľa neho malý pomocný (impulzný kondenzátor). Pack by bol kratší, ale širší.
+
+Návrh odpovede (po anglicky):
+
+> Thank you for the connector overview. We use PH-2P (JST PH 2.0), with red wire (plus) on pin 1 and black wire (minus) on pin 2. Please confirm.
+>
+> One more question: do you also have an 8.5 Ah pack where the cell and the capacitor are not stacked in one long tube, but placed side by side? That means the big cell (ER26500H) and the small capacitor (EPC1520) next to each other. We would like a shorter pack. If yes, please send the drawing with dimensions, the price and the delivery time.
+
+Po slovensky: Ďakujem za prehľad konektorov. Používame PH-2P (JST PH 2.0), s červeným vodičom (plus) na pine 1 a čiernym vodičom (mínus) na pine 2. Potvrďte, prosím. Ešte jedna otázka: máte aj pack 8,5 Ah, kde nie sú článok a kondenzátor naskladané v jednej dlhej rúrke, ale uložené vedľa seba? Teda veľký článok (ER26500H) a malý kondenzátor (EPC1520) vedľa seba. Chceli by sme kratší pack. Ak áno, pošlite výkres s rozmermi, cenu a dodaciu lehotu.
