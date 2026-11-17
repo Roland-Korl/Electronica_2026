@@ -42,3 +42,16 @@ Naše dve aplikácie, hotové kombinácie z katalógu (strana 20):
 - [ ] Vybrať varianty (Roland) a vypýtať ceny pre 100 / 1 000 / 5 000 ks.
 - [ ] Počkať na výkres EPC1520 vedľa článku.
 - [ ] Odpovedať na predchádzajúce otázky Anne (konektor XH-2P, impulzy, adresa vzoriek), ak ešte neodišli.
+
+
+## Ďalšie správy: výkresy s kondenzátorom vedľa článku
+
+> Pls reference the drawings.🙏 (príloha: dva výkresy)
+
+Preklad: „Prosím, pozrite si výkresy. 🙏"
+
+Anne poslala dva výkresy, o ktorých písala (správa 09:56: kondenzátor sa dá umiestniť vedľa batérie):
+- [ER26500H + EPC1520 vedľa seba](../navrhy/2026-11-17_sunj_vykres_ER26500H-EPC1520-vedla-seba.pdf): **52 × 40 × 26 mm**, kábel 100 ± 5 mm
+- [ER34615H + EPC1520 vedľa seba](../navrhy/2026-11-17_sunj_vykres_ER34615H-EPC1520-vedla-seba.pdf): **63 × 48 mm**, hrúbka nie je zakótovaná, kábel 100 ± 5 mm
+
+Preklad výkresov, porovnanie s katalógom a poznámky: [prehľad výkresov](../navrhy/SUNJ_vykresy_vedla-seba_sk.md). Dôležité: na výkresoch **nie je určený konektor** (XH-2P treba objednať výslovne) a pri ER34615H chýba hrúbka packu.
