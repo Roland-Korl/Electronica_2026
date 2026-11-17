@@ -41,7 +41,7 @@ Firma: SUNJ Energy (Luoyang) Co., Ltd, založená 2017, areál 33 300 m², ISO 9
 
 ## Obchodné podmienky
 
-- Cena / cenník: zatiaľ nie
+- Cena / cenník (2026-11-17, Anne, množstvo a podmienky nepotvrdené): **ER26500H + EPC1520 = 3,5 USD/ks**, **ER34615H + EPC1520 = 5 USD/ks**; poloha kondenzátora cenu neovplyvňuje. Doprava sa ešte počíta zvlášť.
 - MOQ (min. množstvo): zatiaľ nie
 - Dodacia lehota: zatiaľ nie
 - Platobné podmienky: zatiaľ nie

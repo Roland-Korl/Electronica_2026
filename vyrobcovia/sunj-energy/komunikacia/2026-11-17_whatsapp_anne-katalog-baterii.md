@@ -92,3 +92,32 @@ Poznámka: aktualizované výkresy (rúrka, konektor XH-2P, hrúbka ER34615H) pr
 Návrh odpovede (po anglicky; adresu doplní Roland):
 
 > Thank you, Anne. We will wait for the updated drawings tomorrow. Our company address for shipping is: [company name, street and number, postal code, city, country]. Could you please also tell me the price of the 20 samples (all four packs, or each type) and the shipping cost?
+
+## Ceny od Anne (11:45–11:49)
+
+Originál:
+
+> ok (11:45)
+> ER26500H+EPC1520  USD3.5/pcs (11:46)
+> ER34615H+EPC1520  USD5/pcs (11:47)
+> The position of the capacitor does not affect the price of the battery. (11:48)
+> Should the samples be shipped together? (11:48)
+> For the shipping cost, pls wait. (11:49)
+
+Preklad:
+
+> Dobre.
+> ER26500H+EPC1520: 3,5 USD/ks
+> ER34615H+EPC1520: 5 USD/ks
+> Poloha kondenzátora neovplyvňuje cenu batérie.
+> Majú sa vzorky poslať spolu?
+> Na náklady dopravy, prosím, počkajte.
+
+| Pack | Cena | Poznámka |
+|---|---|---|
+| ER26500H + EPC1520 (8,5 Ah) | **3,5 USD/ks** | rúrka aj vedľa seba rovnaká cena |
+| ER34615H + EPC1520 (19 Ah) | **5 USD/ks** | rúrka aj vedľa seba rovnaká cena |
+
+**Nejasné:** pre aké množstvo cena platí (vzorky, 100, 1 000, 5 000 ks)? Zahŕňa kábel 100 mm a konektor XH-2P? Za akých podmienok dodania (Incoterms: EXW, FOB, DAP)? Bez DPH a cla? Doprava sa počíta zvlášť, Anne ju pošle neskôr.
+
+Pri 20 vzorkách (napr. po 5 ks každej zo 4 verzií) by to bolo **85 USD** bez dopravy (10 × 3,5 + 10 × 5). Počet kusov každej verzie určí Roland.
