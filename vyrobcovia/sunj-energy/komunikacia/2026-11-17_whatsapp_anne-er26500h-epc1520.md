@@ -71,20 +71,29 @@ Anne teda poslala výkresy v troch dĺžkach: **65, 67 a 68 mm**. Treba zistiť,
 
 ## Návrh odpovede
 
+Zahŕňa aj doplnenia od Rolanda: polarita konektora (+ na pine 1, − na pine 2) a požadované kapacity pre dve aplikácie. Typ konektora, ktorý používame my, v repe zatiaľ nie je; doplniť.
+
 **Po anglicky (na odoslanie):**
 
 > Hello Anne, yes, I received your email, thank you. We can continue here on WhatsApp.
 >
-> To clarify: yes, we only need your standard battery pack with an ER26500H cell and an EPC1520 capacitor. We now have a new version of our device. It is a box instead of a tube, designed so that your standard pack, with cable and connector, fits inside. So we do not need any custom pack anymore, and our earlier requests EPS-BAT-01 and EPS-BAT-02 are no longer valid.
+> To clarify: yes, we only need your standard battery pack with a cell and an SPC pulse capacitor. We now have a new version of our device. It is a box instead of a tube, designed so that your standard pack, with cable and connector, fits inside. So we do not need any custom pack anymore, and our earlier requests EPS-BAT-01 and EPS-BAT-02 are no longer valid.
 >
-> Thank you for the drawings. To finish our design, could you please send me:
-> 1. the datasheet of the pack
-> 2. the connector type (and the mating connector)
-> 3. you sent drawings with 65, 67 and 68 mm length: what is the difference, and which one is your standard?
-> 4. the parts list for the numbers 1–11 on the 67 mm drawing
-> 5. the price for 100 / 1,000 / 5,000 pieces
-> 6. the delivery time for 20 samples
-> 7. the capacity, and the voltage during 0.6 A pulses (10 ms) at −30 °C
+> We need two versions of the pack, because we have two applications:
+> - Application 1: capacity 8.5 Ah + SPC (for example ER26500H + EPC1520)
+> - Application 2: capacity at least 19 Ah + SPC
+>
+> For us the most important thing is the highest possible capacity in the smallest possible housing.
+>
+> Please send me for both packs:
+> 1. the datasheet
+> 2. the dimensions (diameter and length) and the weight
+> 3. the connector type (and the mating connector). Important: we need plus on pin 1 and minus on pin 2. Please confirm the polarity of your wiring.
+> 4. the price for 100 / 1,000 / 5,000 pieces
+> 5. the delivery time for 20 samples
+> 6. the capacity, and the voltage during 0.6 A pulses (10 ms) at −30 °C
+>
+> You also sent drawings with 65, 67 and 68 mm length: what is the difference, and which one is your standard? And could you send the parts list for the numbers 1–11 on the 67 mm drawing?
 >
 > Thank you very much!
 
@@ -92,15 +101,22 @@ Anne teda poslala výkresy v troch dĺžkach: **65, 67 a 68 mm**. Treba zistiť,
 
 > Dobrý deň, Anne, áno, e-mail som dostal, ďakujem. Môžeme pokračovať tu na WhatsAppe.
 >
-> Upresnenie: áno, potrebujeme len váš štandardný batériový pack s článkom ER26500H a kondenzátorom EPC1520. Máme novú verziu zariadenia. Je to krabica namiesto rúrky, navrhnutá tak, aby sa do nej zmestil váš štandardný pack s káblom a konektorom. Vlastný pack na mieru už teda nepotrebujeme a naše predchádzajúce dopyty EPS-BAT-01 a EPS-BAT-02 už neplatia.
+> Upresnenie: áno, potrebujeme len váš štandardný batériový pack s článkom a impulzným kondenzátorom SPC. Máme novú verziu zariadenia. Je to krabica namiesto rúrky, navrhnutá tak, aby sa do nej zmestil váš štandardný pack s káblom a konektorom. Vlastný pack na mieru už teda nepotrebujeme a naše predchádzajúce dopyty EPS-BAT-01 a EPS-BAT-02 už neplatia.
 >
-> Ďakujem za výkresy. Aby sme dokončili návrh, pošlite mi, prosím:
-> 1. dátový list packu
-> 2. typ konektora (aj protikus)
-> 3. poslali ste výkresy s dĺžkou 65, 67 a 68 mm: aký je rozdiel a ktorý je váš štandard?
-> 4. zoznam položiek k číslam 1–11 na výkrese so 67 mm
-> 5. cenu pre 100 / 1 000 / 5 000 ks
-> 6. dodaciu lehotu pre 20 vzoriek
-> 7. kapacitu a napätie počas impulzov 0,6 A (10 ms) pri −30 °C
+> Potrebujeme dve verzie packu, lebo máme dve aplikácie:
+> - Aplikácia 1: kapacita 8,5 Ah + SPC (napríklad ER26500H + EPC1520)
+> - Aplikácia 2: kapacita aspoň 19 Ah + SPC
+>
+> Pre nás je najdôležitejšia čo najväčšia kapacita v čo najmenšom púzdre.
+>
+> Pošlite mi, prosím, pre oba packy:
+> 1. dátový list
+> 2. rozmery (priemer a dĺžka) a hmotnosť
+> 3. typ konektora (aj protikus). Dôležité: potrebujeme plus na pine 1 a mínus na pine 2. Potvrďte, prosím, polaritu vášho zapojenia.
+> 4. cenu pre 100 / 1 000 / 5 000 ks
+> 5. dodaciu lehotu pre 20 vzoriek
+> 6. kapacitu a napätie počas impulzov 0,6 A (10 ms) pri −30 °C
+>
+> Poslali ste aj výkresy s dĺžkou 65, 67 a 68 mm: aký je rozdiel a ktorý je váš štandard? A môžete poslať zoznam položiek k číslam 1–11 na výkrese so 67 mm?
 >
 > Veľmi pekne ďakujem!
