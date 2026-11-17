@@ -71,7 +71,7 @@ Anne teda poslala výkresy v troch dĺžkach: **65, 67 a 68 mm**. Treba zistiť,
 
 ## Návrh odpovede
 
-Zahŕňa aj doplnenia od Rolanda: polarita konektora (+ na pine 1, − na pine 2) a požadované kapacity pre dve aplikácie. Typ konektora, ktorý používame my, v repe zatiaľ nie je; doplniť.
+Zahŕňa aj doplnenia od Rolanda: polarita konektora (+ na pine 1, − na pine 2) a požadované kapacity pre dve aplikácie. Náš konektor: JST PH 2.0 (2 piny, rozstup 2,0 mm).
 
 **Po anglicky (na odoslanie):**
 
@@ -88,7 +88,7 @@ Zahŕňa aj doplnenia od Rolanda: polarita konektora (+ na pine 1, − na pine 2
 > Please send me for both packs:
 > 1. the datasheet
 > 2. the dimensions (diameter and length) and the weight
-> 3. the connector type (and the mating connector). Important: we need plus on pin 1 and minus on pin 2. Please confirm the polarity of your wiring.
+> 3. the connector: our device uses a JST PH 2.0 connector (2 pins, 2.0 mm pitch). Is your connector JST PH 2.0 or compatible? Important: we need plus on pin 1 and minus on pin 2. Please confirm the polarity of your wiring.
 > 4. the price for 100 / 1,000 / 5,000 pieces
 > 5. the delivery time for 20 samples
 > 6. the capacity, and the voltage during 0.6 A pulses (10 ms) at −30 °C
@@ -112,7 +112,7 @@ Zahŕňa aj doplnenia od Rolanda: polarita konektora (+ na pine 1, − na pine 2
 > Pošlite mi, prosím, pre oba packy:
 > 1. dátový list
 > 2. rozmery (priemer a dĺžka) a hmotnosť
-> 3. typ konektora (aj protikus). Dôležité: potrebujeme plus na pine 1 a mínus na pine 2. Potvrďte, prosím, polaritu vášho zapojenia.
+> 3. konektor: naše zariadenie používa konektor JST PH 2.0 (2 piny, rozstup 2,0 mm). Je váš konektor JST PH 2.0 alebo kompatibilný? Dôležité: potrebujeme plus na pine 1 a mínus na pine 2. Potvrďte, prosím, polaritu vášho zapojenia.
 > 4. cenu pre 100 / 1 000 / 5 000 ks
 > 5. dodaciu lehotu pre 20 vzoriek
 > 6. kapacitu a napätie počas impulzov 0,6 A (10 ms) pri −30 °C
