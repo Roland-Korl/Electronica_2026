@@ -100,3 +100,37 @@ Návrh odpovede (po anglicky):
 > Could you please send me a list of all your Li-SOCl2 batteries with an SPC capacitor, in all sizes and capacities (cell and capacitor stacked, and side by side if you have it)? For each type, please send the datasheet or at least the capacity, the dimensions and the weight. I will choose the ones that fit our device, and then I will ask you for the prices.
 
 Po slovensky: Môžete mi, prosím, poslať zoznam všetkých vašich Li-SOCl2 batérií s kondenzátorom SPC vo všetkých veľkostiach a kapacitách (článok a kondenzátor na sebe a ak máte, aj vedľa seba)? Pri každom type pošlite dátový list alebo aspoň kapacitu, rozmery a hmotnosť. Vyberiem tie, ktoré sa hodia do nášho zariadenia, a potom sa vás opýtam na ceny.
+
+## Rozhodnutie a finálna správa pre Anne
+
+**Rozhodnutie (Roland):** vodotesná úprava packu **nie je potrebná**, zariadenie bude vo vodotesnej krabičke.
+
+Správa na odoslanie je v texte bez odrážok, aby sa dala skopírovať do WhatsAppu.
+
+**Po anglicky (na odoslanie):**
+
+Hello Anne, thank you for the specifications, the photos and the connector overview. I received your email as well, thank you.
+
+About waterproofing: we do not need any extra waterproof treatment of the pack, because our device will be in a waterproof box. So your standard pack is fine as it is.
+
+About the connector: we use PH-2P (JST PH 2.0). Please make it with the red wire (plus) on pin 1 and the black wire (minus) on pin 2. Could you please confirm this?
+
+We need two sizes: about 8.5 Ah (like your ER26500H + EPC1520) and at least 19 Ah (like your ER34615H + EPC1520). The ER34615H specification has no dimensions. Could you please send them?
+
+Could you also send me a list of all your Li-SOCl2 batteries with an SPC capacitor, in all sizes and capacities? For each type, please send the capacity, the dimensions, the weight and the pulse performance at -30 C if you have it. It is also interesting for us if you have a version where the cell and the capacitor are side by side and not stacked, because that pack would be shorter. We will choose the ones that fit our device, and then I will ask you for the prices.
+
+Thank you very much!
+
+**Po slovensky (význam):**
+
+Dobrý deň, Anne, ďakujem za špecifikácie, fotky a prehľad konektorov. E-mail som dostal tiež, ďakujem.
+
+K vodotesnosti: nepotrebujeme žiadnu extra vodotesnú úpravu packu, lebo naše zariadenie bude vo vodotesnej krabičke. Váš štandardný pack je teda v poriadku tak, ako je.
+
+K konektoru: používame PH-2P (JST PH 2.0). Prosím, urobte ho s červeným vodičom (plus) na pine 1 a čiernym vodičom (mínus) na pine 2. Môžete to, prosím, potvrdiť?
+
+Potrebujeme dve veľkosti: asi 8,5 Ah (ako váš ER26500H + EPC1520) a aspoň 19 Ah (ako váš ER34615H + EPC1520). V špecifikácii ER34615H nie sú rozmery. Môžete ich, prosím, poslať?
+
+Môžete mi tiež poslať zoznam všetkých vašich Li-SOCl2 batérií s kondenzátorom SPC vo všetkých veľkostiach a kapacitách? Pri každom type pošlite kapacitu, rozmery, hmotnosť a impulzný výkon pri −30 °C, ak ho máte. Zaujíma nás aj verzia, kde sú článok a kondenzátor vedľa seba a nie na sebe, lebo taký pack by bol kratší. Vyberieme tie, ktoré sa hodia do nášho zariadenia, a potom sa opýtam na ceny.
+
+Veľmi pekne ďakujem!

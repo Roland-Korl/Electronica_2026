@@ -41,7 +41,7 @@
 
 ## Otvorené otázky
 
-- [ ] **Vodotesnosť:** potrebujeme vodotesnú úpravu packu (zaliatie, krytie)? Anne ju vie vyrobiť podľa našich požiadaviek.
+- [x] **Vodotesnosť:** nie je potrebná, zariadenie bude vo vodotesnej krabičke (Roland, 2026-11-17).
 - [ ] Vypýtať: cenu pre 100 / 1 000 / 5 000 ks, dodaciu lehotu 20 vzoriek, rozmery packu ER34615H, polaritu pinov (+ pin 1, − pin 2), napätie počas impulzov 0,6 A pri −30 °C.
 
 - [ ] Vypýtať od Anne: typ konektora a protikus, dátový list, legendu položiek 1–11, rozdiel medzi verziami 65 / 67 / 68 mm. Výkresy: [65 a 68 mm](navrhy/2026-11-17_sunj_vykres-pack-kabel-konektor.jpg), [67 mm, kábel 100 ± 5 mm](navrhy/2026-11-17_sunj_vykres-pack-67mm-kabel-100mm.jpg); všetky Ø27 mm.
