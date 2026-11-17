@@ -121,3 +121,15 @@ Preklad:
 **Nejasné:** pre aké množstvo cena platí (vzorky, 100, 1 000, 5 000 ks)? Zahŕňa kábel 100 mm a konektor XH-2P? Za akých podmienok dodania (Incoterms: EXW, FOB, DAP)? Bez DPH a cla? Doprava sa počíta zvlášť, Anne ju pošle neskôr.
 
 Pri 20 vzorkách (napr. po 5 ks každej zo 4 verzií) by to bolo **85 USD** bez dopravy (10 × 3,5 + 10 × 5). Počet kusov každej verzie určí Roland.
+
+## Záver dňa
+
+Originál:
+
+> It's too late today; I'll send you quotations tomorrow.
+
+Preklad:
+
+> Dnes je už neskoro; ponuky vám pošlem zajtra.
+
+**Čakáme na 2026-11-18:** cenové ponuky, aktualizované výkresy (rúrka, konektor XH-2P, hrúbka ER34615H), náklady na dopravu. Naše otvorené otázky (množstvo pri cene, kábel a konektor v cene, Incoterms, napätie pri −30 °C) zatiaľ bez odpovede.

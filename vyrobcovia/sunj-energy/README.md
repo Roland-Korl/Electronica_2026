@@ -6,8 +6,8 @@
 | **Web** | neznámy |
 | **Krajina / mesto** | Čína (podľa predvoľby telefónneho čísla; mesto neznáme) |
 | **Stretli sme sa** | Electronica 2026, Mníchov (presný dátum a stánok doplniť) |
-| **Ďalší krok** | odpovedať Anne: prechádzame na štandardné batérie, vypýtať zoznam, ceny a e-mail |
-| **Termín** | doplniť |
+| **Ďalší krok** | počkať na ponuky a aktualizované výkresy od Anne (2026-11-18) |
+| **Termín** | 2026-11-18 |
 
 ## Kontaktné osoby
 
