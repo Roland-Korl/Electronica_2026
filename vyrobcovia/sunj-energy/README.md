@@ -6,7 +6,7 @@
 | **Web** | neznámy |
 | **Krajina / mesto** | Čína (podľa predvoľby telefónneho čísla; mesto neznáme) |
 | **Stretli sme sa** | Electronica 2026, Mníchov (presný dátum a stánok doplniť) |
-| **Ďalší krok** | odpovedať Anne a opýtať sa na stav vyhodnotenia a termín |
+| **Ďalší krok** | odpovedať Anne: prechádzame na štandardné batérie, vypýtať zoznam, ceny a e-mail |
 | **Termín** | doplniť |
 
 ## Kontaktné osoby
@@ -20,7 +20,7 @@
 - Produkty: primárny batériový pack Li-SOCl2 + hybridný impulzný kondenzátor (HLC / SPC) do zaliateho vonkajšieho zariadenia s rádiovým modulom. Máme dva dopyty (nemecky, slovenský preklad vedľa):
   - **EPS-BAT-01**: zaliaty natrvalo, min. 4 Ah, životnosť 10 rokov, vodiče, [preklad](navrhy/EPS-BAT-01_dopyt_sk.md)
   - **EPS-BAT-02**: výmenný pack (trieda ER26500 + SPC1520, veľkosť C), min. 8 Ah, životnosť 3 roky, kontakty bez vodičov, [preklad](navrhy/EPS-BAT-02_dopyt_sk.md)
-  - Ktorý z nich Sunj Energy vyhodnocuje, treba potvrdiť (v správe od Anne je len „special battery pack").
+  - Sunj Energy má obe podklady. **Rozhodnutie 2026-11-17:** pôvodné dopyty na pack na mieru sa pozastavujú; prepracujeme celý model zariadenia tak, aby sme mohli použiť hotové štandardné batérie od výrobcov.
 - Predpokladané množstvá: vzorky 20 ks (Q1 2027), séria 1 000 – 3 000 ks ročne (pri BAT-02 plus náhradné packy)
 - Účel / projekt: doplniť
 
@@ -38,7 +38,8 @@
 
 ## Otvorené otázky
 
-- [ ] Ktorý dopyt (BAT-01 alebo BAT-02, alebo oba) dostali od nás?
+- [ ] Pošlú zoznam štandardných článkov / packov (dátové listy, ceny, dodacia lehota, MOQ)?
+- [ ] Ktoré štandardné batérie vyhovujú: impulzy 0,6 A pri −30 °C, životnosť, rozmery? Podľa toho upraviť zariadenie.
 - [ ] Kedy budú mať výsledok vyhodnotenia?
 - [ ] Získať e-mail a priezvisko Anne, prípadne vizitku.
 - [ ] Zistiť web firmy a overiť ju (číslo nie je v kontaktoch, čínsky dodávateľ).
