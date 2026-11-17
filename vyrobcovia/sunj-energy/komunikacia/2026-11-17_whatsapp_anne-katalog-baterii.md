@@ -74,3 +74,21 @@ Please change two things. First, at the end of the cable, please fit an XH-2P ho
 Could you please send me the prices of all four packs for 100 / 1,000 / 5,000 pieces, with the XH-2P connector, and the delivery time for 20 samples? We also still need the voltage of the pack during 0.6 A pulses (10 ms) at -30 C.
 
 Thank you very much!
+
+## Odpoveď Anne: aktualizované výkresy zajtra, adresa na dopravu
+
+Originál:
+
+> Hello Roland,
+> Ok, we will send you update drawings tomorrow.
+> Can you share me your details address and post code for shipping cost?
+
+Preklad:
+
+> Dobrý deň, Roland, dobre, aktualizované výkresy vám pošleme zajtra. Môžete mi poslať vašu podrobnú adresu a PSČ kvôli nákladom na dopravu?
+
+Poznámka: aktualizované výkresy (rúrka, konektor XH-2P, hrúbka ER34615H) prídu **2026-11-18**. Adresa je na výpočet dopravy vzoriek; poslať **firemnú adresu** (nie súkromnú). Adresu do repa nezapisujem.
+
+Návrh odpovede (po anglicky; adresu doplní Roland):
+
+> Thank you, Anne. We will wait for the updated drawings tomorrow. Our company address for shipping is: [company name, street and number, postal code, city, country]. Could you please also tell me the price of the 20 samples (all four packs, or each type) and the shipping cost?
