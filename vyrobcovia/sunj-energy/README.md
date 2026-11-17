@@ -20,7 +20,7 @@
 - Produkty: primárny batériový pack Li-SOCl2 + hybridný impulzný kondenzátor (HLC / SPC) do zaliateho vonkajšieho zariadenia s rádiovým modulom. Máme dva dopyty (nemecky, slovenský preklad vedľa):
   - **EPS-BAT-01**: zaliaty natrvalo, min. 4 Ah, životnosť 10 rokov, vodiče, [preklad](navrhy/EPS-BAT-01_dopyt_sk.md)
   - **EPS-BAT-02**: výmenný pack (trieda ER26500 + SPC1520, veľkosť C), min. 8 Ah, životnosť 3 roky, kontakty bez vodičov, [preklad](navrhy/EPS-BAT-02_dopyt_sk.md)
-  - Sunj Energy má obe podklady. **Rozhodnutie 2026-11-17:** pôvodné dopyty na pack na mieru sa pozastavujú; prepracujeme celý model zariadenia tak, aby sme mohli použiť hotové štandardné batérie od výrobcov.
+  - Sunj Energy má obe podklady. **Rozhodnutie 2026-11-17:** pôvodné dopyty BAT-01 a BAT-02 už neplatia. Nová verzia zariadenia je krabica namiesto rúrky a je navrhnutá na hotový štandardný pack Sunj Energy (ER26500H + EPC1520, s káblom a konektorom). Dizajn si prispôsobíme my.
 - Predpokladané množstvá: vzorky 20 ks (Q1 2027), séria 1 000 – 3 000 ks ročne (pri BAT-02 plus náhradné packy)
 - Účel / projekt: doplniť
 
@@ -39,7 +39,7 @@
 
 ## Otvorené otázky
 
-- [ ] Vypýtať od Anne: dĺžku kábla, typ konektora a protikus, dátové listy, rozdiel medzi verziami 65 a 68 mm. [Výkres packu](navrhy/2026-11-17_sunj_vykres-pack-kabel-konektor.jpg): Ø27 mm, dĺžka 65 / 68 mm, kábel s konektorom.
+- [ ] Vypýtať od Anne: typ konektora a protikus, dátový list, legendu položiek 1–11, rozdiel medzi verziami 65 / 67 / 68 mm. Výkresy: [65 a 68 mm](navrhy/2026-11-17_sunj_vykres-pack-kabel-konektor.jpg), [67 mm, kábel 100 ± 5 mm](navrhy/2026-11-17_sunj_vykres-pack-67mm-kabel-100mm.jpg); všetky Ø27 mm.
 - [ ] Prečítaný e-mail od Anne (2026-11-17): ak v ňom bolo niečo dôležité, doplniť do `komunikacia/`.
 - [ ] Potvrdiť Anne, že chceme pack ER26500H + EPC1520 a že akceptujeme kábel s konektorom (viď [záznam](komunikacia/2026-11-17_whatsapp_anne-er26500h-epc1520.md)).
 - [ ] Pošlú zoznam štandardných článkov / packov (dátové listy, ceny, dodacia lehota, MOQ)?
