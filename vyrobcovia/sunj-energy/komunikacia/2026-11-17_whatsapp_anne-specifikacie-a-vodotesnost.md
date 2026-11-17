@@ -52,3 +52,7 @@ Stále otvorené: cena, dodacia lehota vzoriek, rozmery ER34615H packu, polarita
 
 - [ ] Rozhodnúť o vodotesnosti (pozri návrh odpovede v správe; po rozhodnutí doplniť sem).
 - [ ] Odpovedať Anne.
+
+## Ďalšia fotka (vzorka ER26500H s káblom a konektorom)
+
+Pack ER26500H zblízka: z čierneho plastového krytu na vrchu vychádza červený a čierny vodič, ktorý končí **malým bielym dvojpólovým konektorom** (plastové puzdro, na konci vodičov čierna zmršťovacia bužírka). Vzhľad zodpovedá káblovému puzdru typu JST PH, ale z fotky to nedokážem potvrdiť; polarita pinov sa na fotke nedá určiť (vodiče sú červený a čierny, pravdepodobne červený +, čierny −). Fotka nie je uložená v repe.
