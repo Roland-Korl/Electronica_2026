@@ -28,6 +28,18 @@ Anne napísala, že nám práve poslala aj e-mail, a pýta sa, či sme ho dostal
 > Práve som vám poslala aj e-mail, dostali ste ho?
 > Myslíte tým, že potrebujete len batériový pack zložený z ER26500H a EPC1520? Takéto batériové packy sa zvyčajne dodávajú s káblami a konektormi na pripojenie k zariadeniu zákazníka.
 
+## Ďalšie správy (09:17–09:18)
+
+> This type of combination is quite common and is not expensive.😊 (09:17)
+> Did you receive my email? (09:18)
+
+Preklad:
+
+> Takáto kombinácia je celkom bežná a nie je drahá. 😊
+> Dostali ste môj e-mail?
+
+Poznámka: Anne tvrdí, že kombinácia ER26500H + EPC1520 je bežná a lacná. Je to len slovo, **žiadna cena zatiaľ nepadla**: treba vypýtať konkrétnu cenu pre 100 / 1 000 / 5 000 ks. Na e-mail sme zatiaľ neodpovedali (Roland ho prečítal, odpoveď príde cez WhatsApp).
+
 ## Výkres od Sunj Energy
 
 Prišiel ešte ten istý deň (kanál neuvedený, text hore na výkrese je orezaný). Súbor: [výkres packu](../navrhy/2026-11-17_sunj_vykres-pack-kabel-konektor.jpg).
