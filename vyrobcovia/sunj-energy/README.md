@@ -34,10 +34,13 @@
 
 ## Zhrnutie rokovania
 
-- 2026-11-17: Anne napísala cez WhatsApp. Ich vývojové oddelenie (R&D) stále vyhodnocuje špeciálny batériový pack, na ktorý sme sa pýtali. Detaily v [komunikacii](komunikacia/2026-11-17_whatsapp_anne-vyhodnocuje-pack.md).
+- 2026-11-17 (neskôr): Anne sa pýta, či chceme len pack ER26500H + EPC1520, a upozorňuje, že takéto packy sa dodávajú s káblom a konektorom. Poslala aj e-mail.
+- 2026-11-17 (ráno): Anne napísala cez WhatsApp. Ich vývojové oddelenie (R&D) stále vyhodnocuje špeciálny batériový pack, na ktorý sme sa pýtali. Detaily v [komunikacii](komunikacia/2026-11-17_whatsapp_anne-vyhodnocuje-pack.md).
 
 ## Otvorené otázky
 
+- [ ] Pozrieť firemný e-mail od Anne (poslala ho 2026-11-17 ~09:06) a doplniť jeho obsah do `komunikacia/`.
+- [ ] Potvrdiť Anne, že chceme pack ER26500H + EPC1520 a že akceptujeme kábel s konektorom (viď [záznam](komunikacia/2026-11-17_whatsapp_anne-er26500h-epc1520.md)).
 - [ ] Pošlú zoznam štandardných článkov / packov (dátové listy, ceny, dodacia lehota, MOQ)?
 - [ ] Ktoré štandardné batérie vyhovujú: impulzy 0,6 A pri −30 °C, životnosť, rozmery? Podľa toho upraviť zariadenie.
 - [ ] Kedy budú mať výsledok vyhodnotenia?
