@@ -39,7 +39,8 @@
 
 ## Otvorené otázky
 
-- [ ] Pozrieť firemný e-mail od Anne (poslala ho 2026-11-17 ~09:06) a doplniť jeho obsah do `komunikacia/`.
+- [ ] Vypýtať od Anne: dĺžku kábla, typ konektora a protikus, dátové listy, rozdiel medzi verziami 65 a 68 mm. [Výkres packu](navrhy/2026-11-17_sunj_vykres-pack-kabel-konektor.jpg): Ø27 mm, dĺžka 65 / 68 mm, kábel s konektorom.
+- [ ] Prečítaný e-mail od Anne (2026-11-17): ak v ňom bolo niečo dôležité, doplniť do `komunikacia/`.
 - [ ] Potvrdiť Anne, že chceme pack ER26500H + EPC1520 a že akceptujeme kábel s konektorom (viď [záznam](komunikacia/2026-11-17_whatsapp_anne-er26500h-epc1520.md)).
 - [ ] Pošlú zoznam štandardných článkov / packov (dátové listy, ceny, dodacia lehota, MOQ)?
 - [ ] Ktoré štandardné batérie vyhovujú: impulzy 0,6 A pri −30 °C, životnosť, rozmery? Podľa toho upraviť zariadenie.

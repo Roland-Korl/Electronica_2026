@@ -12,7 +12,7 @@ Anne napísala, že nám práve poslala aj e-mail, a pýta sa, či sme ho dostal
 
 ## Dohodnuté kroky
 
-- [ ] Pozrieť firemný e-mail: Anne poslala správu e-mailom (obsah zatiaľ neznámy).
+- [x] Firemný e-mail od Anne prečítaný, v poriadku (Roland). Obsah do repa zatiaľ nezapísaný.
 - [ ] Odpovedať Anne (návrh nižšie).
 - [ ] Rozhodnúť, či zariadenie upravíme na pack s káblom a konektorom (pozri poznámky nižšie).
 
@@ -28,6 +28,21 @@ Anne napísala, že nám práve poslala aj e-mail, a pýta sa, či sme ho dostal
 > Práve som vám poslala aj e-mail, dostali ste ho?
 > Myslíte tým, že potrebujete len batériový pack zložený z ER26500H a EPC1520? Takéto batériové packy sa zvyčajne dodávajú s káblami a konektormi na pripojenie k zariadeniu zákazníka.
 
+## Výkres od Sunj Energy
+
+Prišiel ešte ten istý deň (kanál neuvedený, text hore na výkrese je orezaný). Súbor: [výkres packu](../navrhy/2026-11-17_sunj_vykres-pack-kabel-konektor.jpg).
+
+Na výkrese je štandardný pack s dvoma vodičmi (červený +, čierny −) zakončenými konektorom, vo dvoch variantoch:
+- ľavá strana: max. Ø27 mm, dĺžka max. **68 mm**
+- pravá strana: max. Ø27 mm, dĺžka max. **65 mm**
+- na hornom konci packu je plastové zakončenie s vyvedenými vodičmi; zospodu je vidieť kontaktnú dosku
+
+Z výkresu neviem prečítať: dĺžku kábla (je prerušená značkou), typ konektora, kapacitu ani rozdiel medzi oboma variantmi. To treba od Anne vypýtať.
+
+**Porovnanie s našou šachtou (EPS-BAT-02):** šachta Ø30 mm, pack max. Ø28 × 80 mm. Pack Ø27 × 65–68 mm sa rozmerovo zmestí. Prekáža len kábel a konektor: v pôvodnom návrhu sú pružinové kontakty na dne šachty a pack žiadne vodiče nemá.
+
+**E-mail:** Roland potvrdil, že e-mail od Anne dostal a je v poriadku; v komunikácii môžeme pokračovať na WhatsAppe.
+
 ## Poznámky
 
 - **ER26500H** je pravdepodobne vysokovýkonná verzia článku ER26500 (veľkosť C, Li-SOCl2); význam „H" nepoznám s istotou, treba overiť v dátovom liste.
@@ -40,16 +55,16 @@ Návrh vychádza z predpokladu, že ide o pack triedy BAT-02 (veľkosť C) a že
 
 **Po anglicky (na odoslanie):**
 
-> Hello Anne, good morning. Thank you, I will check my email now and come back to you.
+> Hello Anne, yes, I received your email, thank you. We can continue here on WhatsApp.
 >
-> Yes, we mean a ready-made pack with an ER26500H cell and an EPC1520 pulse capacitor. A cable and connector are not a problem: we will adapt our device to your standard pack.
+> Yes, we mean a ready-made pack with an ER26500H cell and an EPC1520 pulse capacitor. Thank you for the drawing. A cable and connector are not a problem: we will adapt our device to your standard pack.
 >
-> Could you please send me the datasheets for this pack, the drawing with the dimensions, the type and length of the cable and connector, and the price for 100 / 1,000 / 5,000 pieces? Also, please let me know the delivery time for 20 samples and the capacity and pulse voltage at −30 °C. Thank you.
+> Could you please send me the datasheets for this pack, the cable length, the connector type (and the mating connector), and the difference between the two versions in your drawing (65 mm and 68 mm)? Please also send the price for 100 / 1,000 / 5,000 pieces, the delivery time for 20 samples, and the capacity and pulse voltage at −30 °C. Thank you.
 
 **Po slovensky (význam):**
 
-> Dobrý deň, Anne, ďakujem, hneď si pozriem e-mail a ozvem sa.
+> Dobrý deň, Anne, áno, e-mail som dostal, ďakujem. Môžeme pokračovať tu na WhatsAppe.
 >
-> Áno, máme na mysli hotový pack s článkom ER26500H a impulzným kondenzátorom EPC1520. Kábel a konektor nie sú problém: naše zariadenie prispôsobíme vášmu štandardnému packu.
+> Áno, máme na mysli hotový pack s článkom ER26500H a impulzným kondenzátorom EPC1520. Ďakujem za výkres. Kábel a konektor nie sú problém: naše zariadenie prispôsobíme vášmu štandardnému packu.
 >
-> Môžete mi, prosím, poslať dátové listy tohto packu, výkres s rozmermi, typ a dĺžku kábla a konektora a cenu pre 100 / 1 000 / 5 000 ks? Dajte mi tiež vedieť dodaciu lehotu pre 20 vzoriek a kapacitu a napätie pri impulzoch pri −30 °C. Ďakujem.
+> Môžete mi, prosím, poslať dátové listy tohto packu, dĺžku kábla, typ konektora (aj protikus) a rozdiel medzi dvoma verziami na výkrese (65 mm a 68 mm)? Pošlite tiež cenu pre 100 / 1 000 / 5 000 ks, dodaciu lehotu pre 20 vzoriek a kapacitu a napätie pri impulzoch pri −30 °C. Ďakujem.
