@@ -182,3 +182,22 @@ Návrh odpovede (po anglicky):
 > ok, my friend 😊😊 / Have a nice day ☺️
 
 Preklad: „Dobre, priateľ môj. Pekný deň." Dnes už nič ďalšie; zajtra (2026-11-18) ponuky, výkresy a doprava.
+
+## 2026-11-18 ráno: ponuky a výkresy poslané e-mailom, opakovaná otázka na podmienky
+
+Originál (08:50):
+
+> Hello Roland, good morning😊
+> I have sent the quotations and drawings to your mail, pls check.
+> Besides, what kind of device is your battery pack used in? Does your equipment operate at 0.6 A pulses (10 ms) -30°C all the time? Could you provide a detailed description of the conditions under which your equipment operates?
+
+Preklad:
+
+> Dobrý deň, Roland, pekné ráno 😊
+> Poslala som ponuky a výkresy na váš e-mail, prosím, skontrolujte.
+> Okrem toho, v akom zariadení sa váš batériový pack používa? Pracuje vaše zariadenie neustále s impulzmi 0,6 A (10 ms) pri −30 °C? Môžete poskytnúť podrobný opis podmienok, v ktorých vaše zariadenie pracuje?
+
+**Poznámky:**
+- Ponuky a aktualizované výkresy prišli **e-mailom** (firemná pošta Rolanda). Do repa ich treba doplniť po prečítaní (PDF do `navrhy/`, preklad).
+- Anne sa už druhýkrát pýta na impulzy 0,6 A pri −30 °C a podmienky zariadenia (prvá otázka 2026-11-17 09:59). Chce zrejme overiť, či jej pack s EPC1520 postačí. Treba odpovedať podrobnejšie.
+- Podklady na odpoveď z pôvodných dopytov (nutné potvrdiť, že platia): priemerná záťaž ≈ 160 µA; impulzy ≈ 30 mA po dobu ≈ 2 ms každú sekundu (zriedka až 10 za sekundu); raz denne rádiové spojenie ≈ 1 min s impulzmi do 0,6 A po dobu 10 ms; prevádzka −30 až +70 °C; zariadenie je zaliate alebo vo vodotesnej krabici, na vonkajšie použitie, s rádiovým modulom.
