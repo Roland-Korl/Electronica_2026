@@ -201,3 +201,7 @@ Preklad:
 - Ponuky a aktualizované výkresy prišli **e-mailom** (firemná pošta Rolanda). Do repa ich treba doplniť po prečítaní (PDF do `navrhy/`, preklad).
 - Anne sa už druhýkrát pýta na impulzy 0,6 A pri −30 °C a podmienky zariadenia (prvá otázka 2026-11-17 09:59). Chce zrejme overiť, či jej pack s EPC1520 postačí. Treba odpovedať podrobnejšie.
 - Podklady na odpoveď z pôvodných dopytov (nutné potvrdiť, že platia): priemerná záťaž ≈ 160 µA; impulzy ≈ 30 mA po dobu ≈ 2 ms každú sekundu (zriedka až 10 za sekundu); raz denne rádiové spojenie ≈ 1 min s impulzmi do 0,6 A po dobu 10 ms; prevádzka −30 až +70 °C; zariadenie je zaliate alebo vo vodotesnej krabici, na vonkajšie použitie, s rádiovým modulom.
+
+### Odpoveď Rolanda na otázku o podmienkach (2026-11-18)
+
+Roland je na ceste, e-mail si pozrie popoludní. Anne povedal: teplota je klasické európske počasie (zariadenie je vonku, vo vodotesnej krabičke), dve zariadenia: 1. s batériou 8,5 Ah + SPC na 10 rokov (využiteľná kapacita 6,7 Ah), 2. s batériou 19 Ah + SPC na asi 3 roky (vymeniteľná). Plán dodávať vyše 50 000 zariadení ročne, o cenách sa bude rokovať neskôr. Podrobný prúdový profil oboch zariadení pošle neskôr.
