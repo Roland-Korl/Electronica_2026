@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Primary battery packs – requirements for suppliers – EPS-BAT-SPEC</title>
+<style>
+  @page { size: A4; }
+  body { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 9.2pt; color: #1a1a1a; line-height: 1.35; margin: 0; }
+  header { display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1.5px solid #1a3a6b; padding-bottom: 6px; margin-bottom: 10px; }
+  header .doc { text-align: right; font-size: 8.5pt; color: #444; }
+  h1 { font-size: 16pt; margin: 0 0 2px 0; color: #1a3a6b; }
+  .sub { font-size: 9.5pt; color: #444; margin: 0; }
+  h2 { font-size: 11pt; color: #1a3a6b; margin: 14px 0 5px 0; border-bottom: 0.5px solid #c8d2e0; padding-bottom: 2px; }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0 6px 0; page-break-inside: avoid; }
+  th, td { border: 0.5px solid #b9c3d1; padding: 3px 5px; vertical-align: top; text-align: left; }
+  th { background: #eef2f8; font-weight: 600; }
+  td.num, th.num { text-align: right; white-space: nowrap; }
+  tr.total td { font-weight: 700; background: #f6f8fb; }
+  tr.design td { font-weight: 700; background: #fff4e0; }
+  .box { border: 0.8px solid #1a3a6b; background: #f4f7fc; padding: 6px 9px; margin: 6px 0; }
+  .note { font-size: 8.4pt; color: #444; margin: 2px 0 6px 0; }
+  ul { margin: 3px 0 6px 18px; padding: 0; }
+  li { margin: 1px 0; }
+  footer { position: fixed; bottom: -10mm; left: 0; right: 0; font-size: 7.8pt; color: #666; display: flex; justify-content: space-between; border-top: 0.5px solid #c8d2e0; padding-top: 3px; }
+  .fill { height: 16px; border-bottom: 0.5px solid #999; margin: 4px 0 8px 0; }
+  .pb { page-break-before: always; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Primary battery packs</h1>
+    <p class="sub">Requirements for suppliers: load profiles (worst case), voltage, temperature, dimensions, connection</p>
+  </div>
+  <div class="doc">EPS-BAT-SPEC<br>Version 2.0 · 11/2026<br>Contact: R. Korl</div>
+</header>
+
+<div class="box">
+  <b>Summary.</b> We need two primary battery packs Li-SOCl<sub>2</sub> 3.6 V (bobbin cell) with a parallel hybrid pulse capacitor (HLC / SPC) for two battery-powered outdoor devices with a radio module:
+  <b>Pack A</b> about 8.5 Ah (C size class) for a low-power device with 10 years of service life, and
+  <b>Pack B</b> about 19 Ah (D size class) for a monitoring device with at least 3 years of service life.
+  Both packs are standard pre-assembled packs (cell + capacitor) with wires and a JST XHP-2 connector, replaceable in the field, not potted.
+  All load values below are a <b>worst case with margin</b>, based on measurements of our prototype boards and our energy model.
+  This document replaces our earlier requests EPS-BAT-01 and EPS-BAT-02.
+</div>
+
+<h2>1 Overview</h2>
+<table>
+  <tr><th style="width:21%"></th><th style="width:39.5%">Pack A – low-power device</th><th>Pack B – monitoring device</th></tr>
+  <tr><td>Chemistry</td><td colspan="2">Li-SOCl<sub>2</sub> bobbin cell + hybrid pulse capacitor (HLC / SPC) in parallel, pre-assembled as one pack</td></tr>
+  <tr><td>Capacity class</td><td>about 8.5 Ah (e.g. 26500 / C cell + 1520 capacitor)</td><td>about 19 Ah (e.g. 34615 / D cell + 1520 capacitor)</td></tr>
+  <tr><td>Nominal voltage</td><td colspan="2">3.6 V; open-circuit voltage max. 3.9 V</td></tr>
+  <tr><td>Design average current (worst case incl. margin)</td><td><b>50 µA</b> (1.2 mAh per day, 0.44 Ah per year)</td><td><b>450 µA</b> (10.8 mAh per day, 3.9 Ah per year)</td></tr>
+  <tr><td>Service life</td><td>at least 10 years in the device</td><td>at least 3 years, then the pack is replaced (as long as possible)</td></tr>
+  <tr><td>Radio session</td><td>≈ 144 mA for ≈ 17 s, every 48 h</td><td>≈ 130 mA for ≈ 80 s, once a day (max. 7 min; retries, see 4)</td></tr>
+  <tr><td>Current pulses</td><td colspan="2">up to <b>0.6 A for 10 ms</b>, repeated (hundreds to thousands per radio session); modem power-up ≈ 0.55 A for &lt; 1 ms</td></tr>
+  <tr><td>Space in the device</td><td>not fixed yet: please offer both a straight (capacitor on top of the cell) and a side-by-side version</td><td><b>max. 65 × 50 × 38 mm</b> (length along the cell axis × width × height), max. 120 g; side-by-side version</td></tr>
+  <tr><td>Use</td><td colspan="2">outdoors in a sealed box, pack held in foam, any orientation, replaceable in the field, not potted, never charged</td></tr>
+</table>
+
+<h2>2 Electrical requirements (both packs)</h2>
+<table>
+  <tr><th style="width:21%">Parameter</th><th>Requirement</th></tr>
+  <tr><td>Voltage during pulses</td><td>at least <b>3.2 V</b> at the pack terminals during 0.6 A / 10 ms pulses, over the whole temperature range and service life, also after long rest periods (passivation / voltage delay). Below 3.0 V the device may reset.</td></tr>
+  <tr><td>Voltage during the radio session</td><td>at least <b>3.3 V</b> average at ≈ 150 mA for up to 7 min</td></tr>
+  <tr><td>Continuous current</td><td>at least 150 mA for up to 7 min without loss of the voltage limits above (please state your rating)</td></tr>
+  <tr><td>Self-discharge</td><td>max. 1 % per year at +25 °C</td></tr>
+  <tr><td>Charging</td><td>never. The device has two independent blocking elements in series; reverse current &lt; 1 µA even with one fault.</td></tr>
+  <tr><td>Protection</td><td>the device has a 2 A fuse and reverse polarity protection. A fuse or PTC inside the pack is welcome if the voltage drop at 0.6 A is max. 0.1 V.</td></tr>
+</table>
+
+<h2>3 Load profile A (Pack A, low-power device)</h2>
+<table>
+  <tr><th>Phase</th><th>Current</th><th>Duration</th><th>Repeats</th><th class="num">mAh / day</th></tr>
+  <tr><td>Sleep (timer running)</td><td>13.7 µA</td><td>continuous</td><td>–</td><td class="num">0.329</td></tr>
+  <tr><td>Measurement</td><td>≈ 5 mA pulses (16 × ≈ 2 ms)</td><td>35 ms in total</td><td>every 60 s</td><td class="num">0.070</td></tr>
+  <tr><td>Data to memory</td><td>≈ 40 mA</td><td>≈ 0.25 s</td><td>6 × per day</td><td class="num">0.018</td></tr>
+  <tr><td>Radio session</td><td>≈ 144 mA average, pulses up to 0.6 A / 10 ms</td><td>≈ 17 s</td><td>every 48 h</td><td class="num">0.340</td></tr>
+  <tr><td>Radio session without network (rare)</td><td>≈ 37 mA average, pulses up to 0.6 A</td><td>up to 300 s</td><td>≈ 1 × per 2 months</td><td class="num">0.051</td></tr>
+  <tr class="total"><td>Total (calculated)</td><td colspan="3">≈ 33.7 µA average</td><td class="num">0.808</td></tr>
+  <tr class="design"><td>Design value for sizing</td><td colspan="3">50 µA average (≈ 50 % margin for retries and component tolerances)</td><td class="num">1.200</td></tr>
+</table>
+<p class="note">Sizing check (our estimate): 10 years × 0.44 Ah + self-discharge ≈ 5.2 Ah needed; we assume ≈ 6.7 Ah usable from an 8.5 Ah pack. Please confirm the usable capacity at this profile.</p>
+
+<h2>4 Load profile B (Pack B, monitoring device)</h2>
+<table>
+  <tr><th>Phase</th><th>Current</th><th>Duration</th><th>Repeats</th><th class="num">mAh / day</th></tr>
+  <tr><td>Sleep</td><td>12.5 µA</td><td>continuous</td><td>–</td><td class="num">0.300</td></tr>
+  <tr><td>Current measurement</td><td>≈ 5 mA</td><td>≈ 2 ms</td><td>10 × per second</td><td class="num">2.400</td></tr>
+  <tr><td>Voltage measurement</td><td>28.5 mA typ., <b>41 mA max.</b> (calculated with 41 mA)</td><td>≈ 3 ms</td><td>1 × per second</td><td class="num">2.952</td></tr>
+  <tr><td>Processor wake-up, data to memory</td><td>25 … 40 mA</td><td>50 … 110 ms</td><td>≈ 200 × per day</td><td class="num">0.312</td></tr>
+  <tr><td>Events (measurement 10 × per second)</td><td>≈ 1 mA average</td><td>up to 30 s</td><td>≈ 10 × per day</td><td class="num">0.083</td></tr>
+  <tr><td>Radio session (LTE-M)</td><td>≈ 130 mA average; transmit pulses up to 0.6 A / 1 … 10 ms (typ. 0.4 A); modem power-up ≈ 0.55 A &lt; 1 ms</td><td>≈ 80 s (max. 7 min)</td><td>1 × per day</td><td class="num">2.889</td></tr>
+  <tr class="total"><td>Total (calculated, worst case)</td><td colspan="3">≈ 372 µA average</td><td class="num">8.936</td></tr>
+  <tr class="design"><td>Design value for sizing</td><td colspan="3">450 µA average (≈ 20 % margin)</td><td class="num">10.800</td></tr>
+</table>
+<p class="note"><b>Worst day:</b> if the radio session fails (weak signal), it is repeated after 1 h and after 4 h, each up to 7 min at ≈ 130 mA, i.e. up to ≈ 46 mAh on that day. This is rare.
+Sizing check (our estimate): with ≈ 15 Ah usable from a 19 Ah pack, 3.9 Ah per year gives ≈ 3.6 years. Please confirm the usable capacity at this profile.</p>
+
+<h2>5 Our device input (both devices)</h2>
+<table>
+  <tr><td style="width:21%">Electronics</td><td>3.3 V buck converter (60 nA quiescent) and the radio module directly from the battery; deep sleep between the measurements</td></tr>
+  <tr><td>Buffer</td><td>3 × 100 µF ceramic at the radio module supply (covers the transmit pulses together with the HLC / SPC)</td></tr>
+  <tr><td>Input voltage range</td><td>works from 3.0 V; max. 4.2 V at the input</td></tr>
+  <tr><td>Monitoring</td><td>the device measures the battery voltage under load and sends it with the data, so field behaviour can be shared with you</td></tr>
+</table>
+
+<h2>6 Temperature and environment</h2>
+<ul>
+  <li><b>Operation: −40 … +70 °C</b> ambient, pulses also at −40 °C. In a closed box in the sun the battery can get warmer: please state the behaviour up to <b>+85 °C</b>.</li>
+  <li>Storage before assembly up to 1 year: please state the recommended storage conditions and the shelf life of spare packs.</li>
+  <li>Outdoors in a sealed box (Pack B: metal box with a breather vent); humidity and condensation cannot be excluded.</li>
+  <li>Vibration and shock of an outdoor installation (Pack B is installed next to a railway track; we take EN 61373 as a framework). The pack is held in foam, any orientation.</li>
+</ul>
+
+<h2>7 Dimensions and connection</h2>
+<table>
+  <tr><th style="width:21%">Parameter</th><th>Requirement</th></tr>
+  <tr><td>Pack A</td><td>space not fixed yet: please offer a straight version (capacitor on top of the cell) and a side-by-side version, with dimensions and weight</td></tr>
+  <tr><td>Pack B</td><td>max. 65 mm (along the cell axis) × 50 mm (cell and capacitor side by side) × 38 mm, max. 120 g</td></tr>
+  <tr><td>Packaging</td><td>heat-shrink sleeve, no exposed contacts, both wires leave the pack at one end; marking according to the EU Battery Regulation</td></tr>
+  <tr><td>Wires</td><td>2 wires, length <b>150 ± 10 mm</b> (from the pack to the connector), AWG 24 … 26, insulation rated at least <b>+85 °C</b> (e.g. UL1569 or UL1015, 105 °C)</td></tr>
+  <tr><td>Connector</td><td><b>JST XHP-2</b> housing (2.5 mm pitch) with SXH contacts, mating with JST B2B-XH-A on our board: <b>pin 1 = + (red), pin 2 = − (black)</b></td></tr>
+</table>
+
+<h2>8 Compliance and transport</h2>
+<ul>
+  <li>UN 38.3 (test summary), IEC 60086-4, EU Battery Regulation (EU) 2023/1542 (portable battery, replaceable in the field: CE marking, labelling, declaration of conformity)</li>
+  <li>Safety data sheet (SDS / MSDS); transport conditions for packs shipped alone (UN 3090) and installed in the device (UN 3091)</li>
+</ul>
+
+<h2>9 Quantities</h2>
+<p>Prototypes 5 pcs per pack; samples 20 pcs per pack (Q1 2027); series at start 1,000 … 3,000 pcs per year per pack, with potential to grow to significantly higher volumes.</p>
+
+<h2>10 Please send us</h2>
+<ul>
+  <li>the recommended pack for profile A and profile B, with the datasheet and a drawing with wires and connector (dimensions, weight);</li>
+  <li>the usable capacity at our profiles at −40 °C, +25 °C and +70 °C (down to 3.2 V during the 0.6 A pulse), i.e. the expected service life;</li>
+  <li>the voltage during a 0.6 A / 10 ms pulse and at the end of a radio session at −40 °C, +20 °C and +70 °C, for a new pack and at the end of the service life;</li>
+  <li>the voltage delay (passivation) after storage and after long sleep periods at −40 °C, and how the capacitor handles it;</li>
+  <li>the self-discharge at +25 °C and +70 °C, the recommended storage conditions and the behaviour up to +85 °C;</li>
+  <li>the UN 38.3 test summary, the SDS and the transport conditions;</li>
+  <li>prices for 5 / 100 / 1,000 / 5,000 pcs, delivery terms (Incoterms), shipping options and the lead time of the samples.</li>
+</ul>
+
+<p>Battery maker / contact:</p><div class="fill"></div>
+<p>Notes:</p><div class="fill"></div>
+
+
+</body>
+</html>
