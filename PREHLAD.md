@@ -4,4 +4,4 @@ Aktualizovať ručne po každej zmene stavu. Stavy: `kontakt`, `rokovanie`, `pon
 
 | Výrobca | Stav | Kontakt | Produkty / záujem | Ďalší krok | Termín | Zložka |
 |---|---|---|---|---|---|---|
-| Sunj Energy (Čína) | ponuka | Anne (WhatsApp +86 133 3379 5798) | batérie Li-SOCl2 + EPC1520: 8,5 Ah (3,5 USD/ks) a 19 Ah (5 USD/ks), rúrka aj vedľa seba | počkať na ponuky a aktualizované výkresy | 2026-11-18 | [sunj-energy](vyrobcovia/sunj-energy/) |
+| Sunj Energy (Čína) | ponuka | Anne Li (energy005@sunj.com, WhatsApp +86 133 3379 5798) | batérie Li-SOCl2 + EPC1520: 8,5 Ah (3,5 USD/ks) a 19 Ah (5 USD/ks), rúrka aj vedľa seba | overiť firmu, opraviť ponuky, poslať profil záťaže, vybrať dopravu | ponuky platia do 2026-12-18 | [sunj-energy](vyrobcovia/sunj-energy/) |

@@ -2,18 +2,18 @@
 
 | | |
 |---|---|
-| **Stav** | kontakt |
-| **Web** | neznámy |
-| **Krajina / mesto** | Čína (podľa predvoľby telefónneho čísla; mesto neznáme) |
+| **Stav** | ponuka |
+| **Web** | www.sunj.com |
+| **Krajina / mesto** | Čína, Luoyang (Henan) |
 | **Stretli sme sa** | Electronica 2026, Mníchov (presný dátum a stánok doplniť) |
-| **Ďalší krok** | počkať na ponuky a aktualizované výkresy od Anne (2026-11-18) |
-| **Termín** | 2026-11-18 |
+| **Ďalší krok** | overiť firmu, požiadať o opravu ponúk, poslať profil záťaže, vybrať dopravu |
+| **Termín** | ponuky platia do 2026-12-18 |
 
 ## Kontaktné osoby
 
 | Meno | Rola | E-mail | Telefón | Poznámka |
 |---|---|---|---|---|
-| Anne | zástupkyňa Sunj Energy (rola neznáma) | neznámy | +86 133 3379 5798 (WhatsApp) | Prvá správa 2026-11-17 ráno. Číslo nie je v kontaktoch. Priezvisko neznáme. |
+| Anne Li | zástupkyňa Sunj Energy (predaj) | energy005@sunj.com | +86 133 3379 5798 (WhatsApp) | Prvá správa 2026-11-17 ráno. Firma: SUNJ Energy (Luoyang) Co., Ltd, +86-379-65289936. |
 
 ## Čo nás zaujíma
 
@@ -42,14 +42,19 @@ Podrobnosti: [prehľad katalógu](dokumenty/SUNJ_katalog_vyber_sk.md), [kondenz�
 
 **Výkresy s EPC1520 vedľa článku** ([prehľad](navrhy/SUNJ_vykresy_vedla-seba_sk.md)): ER26500H + EPC1520 = 52 × 40 × 26 mm; ER34615H + EPC1520 = 63 × 48 mm (hrúbka nie je zakótovaná). Kábel 100 ± 5 mm, konektor na výkrese nie je určený (treba XH-2P).
 
+## Cenové ponuky a výkresy (2026-11-18)
+
+Prehľad a preklad: [ponuky a výkresy](navrhy/SUNJ_ponuky_2026-11-18_sk.md). Šesť ponúk (10, 100, 1 000 a 3 000 ks; letecky, DHL, námorne) a štyri nové výkresy s konektorom XH-2P (červený na pine 1, čierny na pine 2, kábel 100 ± 5 mm). Jednotkové ceny: ER26500H + EPC1520 3,50 USD (3,40 USD pri 1 000 ks a viac), ER34615H + EPC1520 5,00 USD. Platba 100 % vopred, platnosť 1 mesiac (do 18. 12. 2026). Záznam: [e-mail 18. 11.](komunikacia/2026-11-18_email_anne-ponuky-a-vykresy.md).
+
 Firma: SUNJ Energy (Luoyang) Co., Ltd, založená 2017, areál 33 300 m², ISO 9001 / 45001 / 14001, výrobky UL, CE, UN 38.3, RoHS (podľa katalógu, neoverené). Web www.sunj.com.
 
 ## Obchodné podmienky
 
-- Cena / cenník (2026-11-17, Anne, množstvo a podmienky nepotvrdené): **ER26500H + EPC1520 = 3,5 USD/ks**, **ER34615H + EPC1520 = 5 USD/ks**; poloha kondenzátora cenu neovplyvňuje. Doprava sa ešte počíta zvlášť.
+- Cena / cenník: ER26500H + EPC1520 = 3,50 USD/ks (3,40 USD od 1 000 ks), ER34615H + EPC1520 = 5,00 USD/ks; poloha kondenzátora cenu neovplyvňuje.
+- Doprava (ponuky z 2026-11-18): 40 ks vzoriek 120 USD letecky (DDP) alebo 170 USD DHL (DAP); 200 ks 440 USD letecky alebo 425 USD DHL; 2 000 ks námorne 920 USD; 6 000 ks námorne 2 600 USD.
 - MOQ (min. množstvo): zatiaľ nie
-- Dodacia lehota: zatiaľ nie
-- Platobné podmienky: zatiaľ nie
+- Dodacia lehota: vzorky výroba 5–7 pracovných dní + doprava 10–20 dní; 100 ks výroba 7–10 pracovných dní; 1 000 ks výroba 15–20 pracovných dní + 50–55 dní námorne; 3 000 ks výroba 20–30 pracovných dní + 50–55 dní námorne.
+- Platobné podmienky: 100 % vopred (SWIFT / FPS / CHATS na účet v Hongkongu)
 - Exkluzivita / distribúcia: zatiaľ nie
 
 ## Zhrnutie rokovania
@@ -59,14 +64,16 @@ Firma: SUNJ Energy (Luoyang) Co., Ltd, založená 2017, areál 33 300 m², ISO 9
 
 ## Otvorené otázky
 
-- [x] **Vodotesnosť:** nie je potrebná, zariadenie bude vo vodotesnej krabičke (Roland, 2026-11-17).
-- [ ] Vypýtať: cenu pre 100 / 1 000 / 5 000 ks, dodaciu lehotu 20 vzoriek, rozmery packu ER34615H, polaritu pinov (+ pin 1, − pin 2), napätie počas impulzov 0,6 A pri −30 °C.
+Vyriešené:
+- [x] Vodotesnosť: nie je potrebná, zariadenie bude vo vodotesnej krabičke (2026-11-17).
+- [x] Konektor: XH-2P, červený na pine 1, čierny na pine 2, kábel 100 ± 5 mm (na výkresoch z 2026-11-18).
+- [x] Dátové listy, katalóg, ceny, dodacie lehoty a náklady na dopravu (e-mail 2026-11-18).
+- [x] E-mail a priezvisko kontaktu: Anne Li, energy005@sunj.com.
 
-- [ ] Vypýtať od Anne: typ konektora a protikus, dátový list, legendu položiek 1–11, rozdiel medzi verziami 65 / 67 / 68 mm. Výkresy: [65 a 68 mm](navrhy/2026-11-17_sunj_vykres-pack-kabel-konektor.jpg), [67 mm, kábel 100 ± 5 mm](navrhy/2026-11-17_sunj_vykres-pack-67mm-kabel-100mm.jpg); všetky Ø27 mm.
-- [ ] Prečítaný e-mail od Anne (2026-11-17): ak v ňom bolo niečo dôležité, doplniť do `komunikacia/`.
-- [ ] Potvrdiť Anne, že chceme pack ER26500H + EPC1520 a že akceptujeme kábel s konektorom (viď [záznam](komunikacia/2026-11-17_whatsapp_anne-er26500h-epc1520.md)).
-- [ ] Pošlú zoznam štandardných článkov / packov (dátové listy, ceny, dodacia lehota, MOQ)?
-- [ ] Ktoré štandardné batérie vyhovujú: impulzy 0,6 A pri −30 °C, životnosť, rozmery? Podľa toho upraviť zariadenie.
-- [ ] Kedy budú mať výsledok vyhodnotenia?
-- [ ] Získať e-mail a priezvisko Anne, prípadne vizitku.
-- [ ] Zistiť web firmy a overiť ju (číslo nie je v kontaktoch, čínsky dodávateľ).
+Otvorené:
+- [ ] **Overiť firmu pred platbou** (100 % vopred na účet v Hongkongu): obchodný register alebo webová stránka sunj.com, telefonicky cez číslo z katalógu +86-379-65289936, vypýtať proforma faktúru a zvoliť bezpečný spôsob platby.
+- [ ] Požiadať Anne o opravu ponúk: doplniť konektor XH-2P a dĺžku kábla 100 mm pri ER34615H; rozlíšiť rúrku a vedľa seba; upraviť počet vzoriek (ponuka je na 40 ks, nie na 20 ks); vyjasniť DAP/DDP pri DHL ponuke na 100 ks.
+- [ ] Hrúbka ER34615H packu pri verzii vedľa seba (na výkrese chýba).
+- [ ] Poslať Anne profil záťaže oboch zariadení (impulz, dĺžka, trvalý prúd) na overenie kapacity pri −30 °C a využiteľnej kapacity 6,7 Ah.
+- [ ] Rozhodnúť o cieľovej cene (zatiaľ nesdeľovať) a o spôsobe dopravy vzoriek (DHL 10–12 dní alebo letecky 15–20 dní).
+- [ ] Ceny pri 5 000 ks a viac, a pri objeme okolo 50 000 zariadení ročne.
