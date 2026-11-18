@@ -74,6 +74,6 @@ Otvorené:
 - [ ] **Overiť firmu pred platbou** (100 % vopred na účet v Hongkongu): obchodný register alebo webová stránka sunj.com, telefonicky cez číslo z katalógu +86-379-65289936, vypýtať proforma faktúru a zvoliť bezpečný spôsob platby.
 - [ ] Požiadať Anne o opravu ponúk: doplniť konektor XH-2P a dĺžku kábla 100 mm pri ER34615H; rozlíšiť rúrku a vedľa seba; upraviť počet vzoriek (ponuka je na 40 ks, nie na 20 ks); vyjasniť DAP/DDP pri DHL ponuke na 100 ks.
 - [ ] Hrúbka ER34615H packu pri verzii vedľa seba (na výkrese chýba).
-- [ ] Poslať Anne profil záťaže oboch zariadení (impulz, dĺžka, trvalý prúd) na overenie kapacity pri −30 °C a využiteľnej kapacity 6,7 Ah.
+- [ ] Poslať Anne profil záťaže oboch zariadení (impulz, dĺžka, trvalý prúd) na overenie kapacity pri −30 °C a využiteľnej kapacity 6,7 Ah. Podklad: [EPS-BAT-LP, preklad](navrhy/EPS-BAT-LP_profily-zataze_sk.md) (časti 1 a 5 ešte opisujú pôvodné packy BAT-01/02; profil BAT-02 so 161 µA nezodpovedá 19 Ah na 3 roky, treba vyjasniť).
 - [ ] Rozhodnúť o cieľovej cene (zatiaľ nesdeľovať) a o spôsobe dopravy vzoriek (DHL 10–12 dní alebo letecky 15–20 dní).
 - [ ] Ceny pri 5 000 ks a viac, a pri objeme okolo 50 000 zariadení ročne.
