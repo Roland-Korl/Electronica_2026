@@ -205,3 +205,21 @@ Preklad:
 ### Odpoveď Rolanda na otázku o podmienkach (2026-11-18)
 
 Roland je na ceste, e-mail si pozrie popoludní. Anne povedal: teplota je klasické európske počasie (zariadenie je vonku, vo vodotesnej krabičke), dve zariadenia: 1. s batériou 8,5 Ah + SPC na 10 rokov (využiteľná kapacita 6,7 Ah), 2. s batériou 19 Ah + SPC na asi 3 roky (vymeniteľná). Plán dodávať vyše 50 000 zariadení ročne, o cenách sa bude rokovať neskôr. Podrobný prúdový profil oboch zariadení pošle neskôr.
+
+## 2026-11-18 09:17–09:19: profil záťaže, cieľová cena
+
+Originál:
+
+> Hello Roland, Thanks for your information. To verify the capacity at -30°C, we require detailed information regarding your equipment's discharge profile, including pulse current, pulse duration, continuous operating current, and continuous operating duration. Based on these parameters, we can conduct discharge tests to measure the capacity and voltage characteristics of the battery pack. Regarding the product pricing, if you have a target price in mind, please feel free to share it with me. Thank you very much😊 (09:17)
+> Furthermore, the price I have quoted you is already very low.😂 (09:19)
+
+Preklad:
+
+> Dobrý deň, Roland, ďakujem za informácie. Na overenie kapacity pri −30 °C potrebujeme podrobné údaje o vybíjacom profile vášho zariadenia: impulzný prúd, dĺžku impulzu, trvalý prevádzkový prúd a dĺžku trvalej prevádzky. Podľa týchto parametrov vieme urobiť vybíjacie skúšky a zmerať kapacitu a napäťové vlastnosti packu. K cene produktu: ak máte cieľovú cenu, pokojne mi ju napíšte. Ďakujem 😊
+> Navyše, cena, ktorú som vám ponúkla, je už veľmi nízka. 😂
+
+**Čo Anne potrebuje:** pre každé zariadenie údaje o záťaži (trvalý/pokojový prúd a jeho trvanie, impulzný prúd a jeho dĺžka, frekvencia, rádiové spojenie, teplota) a z toho urobí vybíjacie skúšky pri −30 °C. To je presne to, čo overí 6,7 Ah využiteľnej kapacity.
+
+**Cena:** Anne tvrdí, že ponúknutá cena (3,5 a 5 USD/ks) je už veľmi nízka a pýta si cieľovú cenu. Cieľovú cenu zatiaľ nesdeliť (negociovať neskôr pri veľkých objemoch).
+
+**Kontrola z čísel (môj výpočet, nie od výrobcu):** pre 10 rokov (87 600 h) na využiteľných 6,7 Ah vychádza priemerný prúd **najviac asi 76 µA**; pre 3 roky (26 280 h) na 19 Ah (po odrátaní rezervy, napr. 80 % ≈ 15,2 Ah) vychádza priemer **asi 0,5–0,7 mA**. Staré údaje z dopytov (BAT-01: 34 µA, BAT-02: 160 µA) tomu nezodpovedajú, takže pre profil treba použiť aktuálne čísla zo zariadení.
