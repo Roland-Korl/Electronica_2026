@@ -77,7 +77,7 @@ Otvorené:
 - [ ] Požiadať Anne o opravu ponúk: doplniť konektor XH-2P a dĺžku kábla 100 mm pri ER34615H; rozlíšiť rúrku a vedľa seba; upraviť počet vzoriek (ponuka je na 40 ks, nie na 20 ks); vyjasniť DAP/DDP pri DHL ponuke na 100 ks.
 - [ ] Hrúbka ER34615H packu pri verzii vedľa seba (na výkrese chýba aj vo verzii z 19. 11.).
 - [ ] Proforma faktúry: opraviť dĺžku vodiča na 150 mm, doplniť konektor pri ER34615H, rozlíšiť rúrku a vedľa seba.
-- [ ] Poslať Anne DIČ (VAT číslo) firmy.
+- [ ] Poslať Anne DIČ (VAT číslo) firmy: DE318027623 (pozri [firemné údaje](../../podklady/firemne-udaje.md)).
 - [ ] Čakať na výsledky skúšok (najmenej mesiac, od 2026-11-19).
 - [ ] Poslať Anne profil záťaže oboch zariadení (impulz, dĺžka, trvalý prúd) na overenie kapacity pri −30 °C a využiteľnej kapacity 6,7 Ah. Podklad: [EPS-BAT-LP, preklad](navrhy/EPS-BAT-LP_profily-zataze_sk.md) (časti 1 a 5 ešte opisujú pôvodné packy BAT-01/02; profil BAT-02 so 161 µA nezodpovedá 19 Ah na 3 roky, treba vyjasniť).
 - [ ] Rozhodnúť o cieľovej cene (zatiaľ nesdeľovať) a o spôsobe dopravy vzoriek (DHL 10–12 dní alebo letecky 15–20 dní).
