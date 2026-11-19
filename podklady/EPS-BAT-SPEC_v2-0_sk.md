@@ -90,7 +90,7 @@ UN 38.3 (súhrn skúšok), IEC 60086-4, nariadenie EÚ 2023/1542 (prenosná bat�
 
 ## 9 Množstvá
 
-Prototypy 5 ks z každého packu; vzorky 20 ks z každého (Q1 2027); séria na začiatku 1 000 … 3 000 ks ročne z každého, s potenciálom výrazne vyšších objemov.
+Vzorky: **5 ks z každej verzie packu** (Q1 2027); séria na začiatku 1 000 … 3 000 ks ročne z každého, s potenciálom výrazne vyšších objemov.
 
 ## 10 Čo od výrobcu potrebujeme
 

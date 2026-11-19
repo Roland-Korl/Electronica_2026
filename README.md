@@ -50,6 +50,11 @@ vyrobcovia/<nazov>/     zložka jedného výrobcu
 ### Commity
 Malé a zrozumiteľné, s názvom výrobcu na začiatku: `acme: ponuka v2 + odpoveď na cenu`.
 
+## Spoločné pravidlá pre dodávateľov
+
+- Požiadavky na batérie: [EPS-BAT-SPEC v2.0](podklady/EPS-BAT-SPEC_v2-0_sk.md) (na odoslanie [PDF v angličtine](podklady/EPS-BAT-SPEC_v2-0_en.pdf)).
+- Vzorky: **5 ks z každej verzie packu** (od 2026-11-19).
+
 ## Veľké súbory
 
 Fotky a PDF ukladáme priamo do repa. Ak ich bude veľa (repo nad ~500 MB), presunieme originály na Google Drive a v kartách necháme odkazy.
