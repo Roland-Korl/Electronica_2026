@@ -46,3 +46,15 @@
 - [ ] Overiť bankové údaje telefonicky na firemnom čísle Sunj (+86-379-65289936) pred platbou.
 - [ ] Zaplatiť 175 USD (SWIFT), do správy: „E.P.S. Germany GmbH, PI SUNJ2026111903W, battery samples".
 - [ ] Poslať Anne potvrdenie o platbe.
+
+## Doplnenie: opravený výkres v0.3
+
+Originál:
+
+> Hello Roland, So sorry for my mistake. Pls check the updated drawing. If have any question, pls let me know! Thank you very much!
+
+Preklad:
+
+> Dobrý deň, Roland, veľmi sa ospravedlňujem za chybu. Pozrite si, prosím, aktualizovaný výkres. Ak máte otázky, dajte mi vedieť. Veľmi pekne ďakujem!
+
+[Výkres ER34615H vedľa seba v0.3](../navrhy/2026-11-19_sunj_vykres_ER34615H-EPC1520_XH-2P_150mm_vedla-seba_v0-3.pdf): vodiče **UL1569 24 AWG** (opravené), rozmery 63 × 48 × 33,5 mm, kábel 150 ± 5 mm, XH-2P (červený pin 1, čierny pin 2). Všetko v poriadku.

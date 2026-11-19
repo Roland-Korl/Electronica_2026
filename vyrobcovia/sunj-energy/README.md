@@ -76,7 +76,7 @@ Otvorené:
 - [ ] **Overiť firmu pred platbou** (100 % vopred na účet v Hongkongu): obchodný register alebo webová stránka sunj.com, telefonicky cez číslo z katalógu +86-379-65289936, vypýtať proforma faktúru a zvoliť bezpečný spôsob platby.
 - [ ] Požiadať Anne o opravu ponúk: doplniť konektor XH-2P a dĺžku kábla 100 mm pri ER34615H; rozlíšiť rúrku a vedľa seba; upraviť počet vzoriek (ponuka je na 40 ks, nie na 20 ks); vyjasniť DAP/DDP pri DHL ponuke na 100 ks.
 - [x] Hrúbka ER34615H packu vedľa seba: max. 33,5 mm (výkres v0.2), rozmery 63 × 48 × 33,5 mm.
-- [ ] Výkres ER34615H vedľa seba v0.2 má znova vodič UL1007 (80 °C), opraviť na UL1569.
+- [x] Výkres ER34615H vedľa seba v0.3: vodič opravený na UL1569.
 - [x] Proforma faktúra opravená: SUNJ2026111903W v0.2, 20 ks letecky DDP, 175 USD ([záznam](komunikacia/2026-11-19_email_anne-opravena-proforma-banka.md)).
 - [ ] Overiť bankový účet telefonicky, zaplatiť 175 USD a poslať Anne potvrdenie o platbe.
 - [x] DIČ poslané, je na proforma faktúre.
