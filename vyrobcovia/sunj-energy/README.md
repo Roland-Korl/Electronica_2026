@@ -46,6 +46,8 @@ Podrobnosti: [prehľad katalógu](dokumenty/SUNJ_katalog_vyber_sk.md), [kondenz�
 
 Prehľad a preklad: [ponuky a výkresy](navrhy/SUNJ_ponuky_2026-11-18_sk.md). Šesť ponúk (10, 100, 1 000 a 3 000 ks; letecky, DHL, námorne) a štyri nové výkresy s konektorom XH-2P (červený na pine 1, čierny na pine 2, kábel 100 ± 5 mm). Jednotkové ceny: ER26500H + EPC1520 3,50 USD (3,40 USD pri 1 000 ks a viac), ER34615H + EPC1520 5,00 USD. Platba 100 % vopred, platnosť 1 mesiac (do 18. 12. 2026). Záznam: [e-mail 18. 11.](komunikacia/2026-11-18_email_anne-ponuky-a-vykresy.md).
 
+**2026-11-19:** proforma faktúry na 20 ks vzoriek (175 USD letecky DDP alebo 235 USD DHL DAP), výkresy s vodičmi 150 mm UL1569, ponuka 5 000 + 5 000 ks za 46 200 USD DDP (bez zľavy), skúšky podľa našich profilov do mesiaca a viac. Záznam: [e-mail 19. 11.](komunikacia/2026-11-19_email_anne-proforma-vykresy-5000ks.md).
+
 Firma: SUNJ Energy (Luoyang) Co., Ltd, založená 2017, areál 33 300 m², ISO 9001 / 45001 / 14001, výrobky UL, CE, UN 38.3, RoHS (podľa katalógu, neoverené). Web www.sunj.com.
 
 ## Obchodné podmienky
@@ -73,7 +75,10 @@ Vyriešené:
 Otvorené:
 - [ ] **Overiť firmu pred platbou** (100 % vopred na účet v Hongkongu): obchodný register alebo webová stránka sunj.com, telefonicky cez číslo z katalógu +86-379-65289936, vypýtať proforma faktúru a zvoliť bezpečný spôsob platby.
 - [ ] Požiadať Anne o opravu ponúk: doplniť konektor XH-2P a dĺžku kábla 100 mm pri ER34615H; rozlíšiť rúrku a vedľa seba; upraviť počet vzoriek (ponuka je na 40 ks, nie na 20 ks); vyjasniť DAP/DDP pri DHL ponuke na 100 ks.
-- [ ] Hrúbka ER34615H packu pri verzii vedľa seba (na výkrese chýba).
+- [ ] Hrúbka ER34615H packu pri verzii vedľa seba (na výkrese chýba aj vo verzii z 19. 11.).
+- [ ] Proforma faktúry: opraviť dĺžku vodiča na 150 mm, doplniť konektor pri ER34615H, rozlíšiť rúrku a vedľa seba.
+- [ ] Poslať Anne DIČ (VAT číslo) firmy.
+- [ ] Čakať na výsledky skúšok (najmenej mesiac, od 2026-11-19).
 - [ ] Poslať Anne profil záťaže oboch zariadení (impulz, dĺžka, trvalý prúd) na overenie kapacity pri −30 °C a využiteľnej kapacity 6,7 Ah. Podklad: [EPS-BAT-LP, preklad](navrhy/EPS-BAT-LP_profily-zataze_sk.md) (časti 1 a 5 ešte opisujú pôvodné packy BAT-01/02; profil BAT-02 so 161 µA nezodpovedá 19 Ah na 3 roky, treba vyjasniť).
 - [ ] Rozhodnúť o cieľovej cene (zatiaľ nesdeľovať) a o spôsobe dopravy vzoriek (DHL 10–12 dní alebo letecky 15–20 dní).
 - [ ] Ceny pri 5 000 ks a viac, a pri objeme okolo 50 000 zariadení ročne.
