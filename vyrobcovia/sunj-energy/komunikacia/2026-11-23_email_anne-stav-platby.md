@@ -37,3 +37,31 @@
 > Roland
 
 Po slovensky: Ďakujem za správu. Platbu 175 USD za proforma faktúru SUNJ2026111903W spracúva naše účtovné oddelenie. Potvrdenie o platbe vám pošlem, hneď ako ho dostanem, predpokladám v najbližších dňoch.
+
+## Platba zrealizovaná
+
+Potvrdenie o platbe (výpis z banky, PDF) má Roland; do repa sa neukladá, lebo obsahuje číslo nášho firemného účtu.
+
+| | |
+|---|---|
+| Dátum zaúčtovania a valuta | 20. 11. 2026 |
+| Suma | **175,00 USD**, odpísané **160,11 EUR** (kurz 1,0930) |
+| Príjemca | SUNJ ENERGY(LUOYANG)CO.,LTD, OCBC Hong Kong Branch (zhoda s proforma faktúrou) |
+| Správa pre príjemcu | PI No.: SUNJ2026111903W |
+| Poplatky | **SHA** (delené), nie OUR |
+| Typ | zahraničný prevod SWIFT, UETR f7b54c84-f153-42e3-aa7b-6179ff283f90 (identifikátor na sledovanie platby) |
+
+Pri SHA si môže sprostredkujúca alebo prijímajúca banka strhnúť poplatok, takže Sunj môže dostať o niečo menej než 175 USD.
+
+## Odpoveď s potvrdením (po anglicky)
+
+> Hello Anne,
+>
+> Thank you for your patience. We paid PI SUNJ2026111903W (USD 175.00) on 20 November 2026 by SWIFT transfer. Please find the bank slip attached. The SWIFT tracking number (UETR) is f7b54c84-f153-42e3-aa7b-6179ff283f90.
+>
+> Please confirm when you receive the payment, and let me know when the samples are shipped and the tracking number.
+>
+> Best regards,
+> Roland
+
+Po slovensky: Ďakujem za trpezlivosť. Proforma faktúru SUNJ2026111903W (175,00 USD) sme zaplatili 20. 11. 2026 prevodom SWIFT. V prílohe je potvrdenie o platbe. Číslo na sledovanie platby (UETR) je f7b54c84-f153-42e3-aa7b-6179ff283f90. Potvrďte, prosím, prijatie platby a dajte mi vedieť, keď vzorky odošlete, aj číslo zásielky.

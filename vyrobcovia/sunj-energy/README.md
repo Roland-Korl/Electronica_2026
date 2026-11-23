@@ -78,7 +78,8 @@ Otvorené:
 - [x] Hrúbka ER34615H packu vedľa seba: max. 33,5 mm (výkres v0.2), rozmery 63 × 48 × 33,5 mm.
 - [x] Výkres ER34615H vedľa seba v0.3: vodič opravený na UL1569.
 - [x] Proforma faktúra opravená: SUNJ2026111903W v0.2, 20 ks letecky DDP, 175 USD ([záznam](komunikacia/2026-11-19_email_anne-opravena-proforma-banka.md)).
-- [ ] Overiť bankový účet telefonicky, zaplatiť 175 USD a poslať Anne potvrdenie o platbe.
+- [x] Zaplatené 20. 11. 2026: 175 USD (160,11 EUR), poplatky SHA ([záznam](komunikacia/2026-11-23_email_anne-stav-platby.md)).
+- [ ] Poslať Anne potvrdenie o platbe, čakať na potvrdenie prijatia a číslo zásielky (výroba 5–7 prac. dní + 15–20 dní letecky).
 - [x] DIČ poslané, je na proforma faktúre.
 - [ ] Čakať na výsledky skúšok (najmenej mesiac, od 2026-11-19).
 - [ ] Poslať Anne profil záťaže oboch zariadení (impulz, dĺžka, trvalý prúd) na overenie kapacity pri −30 °C a využiteľnej kapacity 6,7 Ah. Podklad: [EPS-BAT-LP, preklad](navrhy/EPS-BAT-LP_profily-zataze_sk.md) (časti 1 a 5 ešte opisujú pôvodné packy BAT-01/02; profil BAT-02 so 161 µA nezodpovedá 19 Ah na 3 roky, treba vyjasniť).
