@@ -65,3 +65,13 @@ Pri SHA si môže sprostredkujúca alebo prijímajúca banka strhnúť poplatok,
 > Roland
 
 Po slovensky: Ďakujem za trpezlivosť. Proforma faktúru SUNJ2026111903W (175,00 USD) sme zaplatili 20. 11. 2026 prevodom SWIFT. V prílohe je potvrdenie o platbe. Číslo na sledovanie platby (UETR) je f7b54c84-f153-42e3-aa7b-6179ff283f90. Potvrďte, prosím, prijatie platby a dajte mi vedieť, keď vzorky odošlete, aj číslo zásielky.
+
+## Odpoveď Anne (2026-11-24)
+
+> Hello Roland, Nice day! Thanks for your support! OK, when we receive the payment, will share with you. And I will first place the samples to our production department.
+
+Preklad:
+
+> Dobrý deň, Roland, pekný deň! Ďakujem za podporu! Dobre, keď platbu dostaneme, dám vám vedieť. A vzorky hneď zadám do výroby.
+
+Vzorky idú do výroby ešte pred pripísaním platby. Čakáme na potvrdenie prijatia platby a číslo zásielky.
