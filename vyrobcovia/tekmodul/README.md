@@ -44,5 +44,5 @@ Na strane EPS: pôvodne kolega p. Antal, teraz preberá **Roland Korl (vedúci I
 
 - [ ] Aký modem LTE-M použijeme a aké pásma (podľa mojej znalosti v Nemecku hlavne B20, B8, prípadne B3)?
 - [ ] Riešenie antény pre kovovú krabicu: vonkajšia anténa so SMA (CALLISTO1 / TARVOS) + pigtail z U.FL na stenu krabice; upresniť rozmer antény a dĺžku pigtailu.
-- [ ] Max. rozmer FPC antény a potvrdenie konektora MHF1 (U.FL).
+- [x] Konektor MHF1 (U.FL); FPC max. ako FXUB63; vonkajšia anténa čo najmenšia (ideálne ako minca 2 €) na hliníkovú krabicu; pigtail do 150 mm.
 - [ ] Vzorky (5 ks z každého typu) a ponuka pre 100 / 1 000 / 5 000 ks.

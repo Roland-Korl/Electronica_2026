@@ -44,3 +44,30 @@
 - Konektor na doske: MHF1 / U.FL? (FXUB63 ho mala, takže pravdepodobne áno.)
 - Max. rozmer vonkajšej antény a spôsob montáže (na stenu krabice, na stožiar).
 - Dĺžka pigtailu z dosky k stene krabice.
+
+## Upresnenie od Rolanda (2026-11-24)
+
+1. FPC anténa: čím menšia, tým lepšia; max. priestor ako pre súčasnú Taoglas FXUB63.
+2. Konektor na doske: MHF1 (U.FL), potvrdené.
+3. Vonkajšia anténa: montáž na **hliníkovú krabicu**, čím menšia, tým lepšia, ideálne veľkosti mince 2 € (Ø asi 26 mm).
+4. Pigtail: do 150 mm.
+
+Poznámka (môj odhad): anténa veľkosti mince bude pri 800/900 MHz (pásma B20, B8) mať nízku účinnosť, lebo vlnová dĺžka je tam asi 35 cm. Hliníková krabica môže poslúžiť ako uzemňovacia plocha a pomôcť. Treba nechať odporučiť dodávateľa a overiť testom signálu.
+
+## Odpoveď (nemčina)
+
+Hallo Herr Heinisch,
+
+vielen Dank für die schnelle Antwort und die Vorschläge. Hier die Angaben:
+
+1. FPC-Antenne: je kleiner, desto besser. Maximal steht der Platz der aktuellen Taoglas FXUB63 zur Verfügung.
+2. Anschluss: ja, auf der Platine ist MHF1 (U.FL).
+3. Externe Antenne: Montage auf einem Aluminiumgehäuse im Außenbereich, also wetterfest. Auch hier gilt: je kleiner, desto besser, ideal wäre etwa die Größe einer 2-Euro-Münze. Uns ist klar, dass das bei 800/900 MHz schwierig ist. Welche ist die kleinste externe Antenne, die Sie für LTE-M (Band 20, 8 und 3) auf einem Metallgehäuse empfehlen können?
+4. Pigtail: maximal 150 mm, von MHF1 (U.FL) auf SMA-Buchse zur Gehäusedurchführung.
+
+Bitte senden Sie uns gern schon Muster: je 5 Stück LALANDE (MHF1), CALLISTO1 (SMA) und 5 passende Pigtails, sowie Ihre Empfehlung für eine kleinere externe Antenne. Bitte schicken Sie uns auch die Preise für 100 / 1.000 / 5.000 Stück.
+
+Vielen Dank und beste Grüße
+Roland Korl
+Leiter IT-Abteilung
+E.P.S. Germany GmbH
