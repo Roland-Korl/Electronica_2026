@@ -37,10 +37,12 @@ Na strane EPS: pôvodne kolega p. Antal, teraz preberá **Roland Korl (vedúci I
 
 ## Zhrnutie rokovania
 
+- 2026-11-24: Taoglas nepredávajú; navrhujú Synzen LALANDE (FPC, MHF1) a CALLISTO1 / TARVOS (vonkajšie, SMA) plus pigtaily; vzorky LALANDE a CALLISTO hneď ([záznam](komunikacia/2026-11-24_email_heinisch-lalande-callisto.md)).
 - 2026-11-23: p. Heinisch ďakuje za návštevu, navrhuje ELNATH ako alternatívu k FXUB63, ponúka vzorky a ponuku, pýta sa na frekvenčný rozsah ([záznam](komunikacia/2026-11-23_email_heinisch-anteny.md)).
 
 ## Otvorené otázky
 
 - [ ] Aký modem LTE-M použijeme a aké pásma (podľa mojej znalosti v Nemecku hlavne B20, B8, prípadne B3)?
-- [ ] Riešenie antény pre kovovú krabicu (vonkajšia anténa cez stenu, konektor SMA/N).
+- [ ] Riešenie antény pre kovovú krabicu: vonkajšia anténa so SMA (CALLISTO1 / TARVOS) + pigtail z U.FL na stenu krabice; upresniť rozmer antény a dĺžku pigtailu.
+- [ ] Max. rozmer FPC antény a potvrdenie konektora MHF1 (U.FL).
 - [ ] Vzorky (5 ks z každého typu) a ponuka pre 100 / 1 000 / 5 000 ks.
