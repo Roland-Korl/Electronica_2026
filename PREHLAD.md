@@ -10,5 +10,6 @@ Aktualizovať ručne po každej zmene stavu. Stavy: `kontakt`, `rokovanie`, `pon
 | Bonrex (Čína) | kontakt | Alana (alana@bonrex.com, WhatsApp +86 158 1441 9386) | katalóg: ER26500 a ER34615 bez kondenzátora; hlavne Li-polymér, Li-ion, LiFePO4 | poslať EPS-BAT-SPEC v2.0, opýtať sa na pack s kondenzátorom | doplniť | [bonrex](vyrobcovia/bonrex/) |
 | EVE Energy (Čína) | kontakt | Ashley Xiang (158112@evebattery.com, WhatsApp +86 131 1025 9719) | ponúkli Li-ion 18650/21700 (nepotrebujeme); chceme Li-SOCl2 + SPC (ES-261520) | presmerovať na divíziu primárnych batérií | doplniť | [eve-energy](vyrobcovia/eve-energy/) |
 | tekmodul (Nemecko, distribútor) – **antény** | ponuka | Peter Heinisch (p.heinisch@tekmodul.de, +49 160 4065225) | antény Synzen: ELNATH (FPC, 2,22 USD), TARVOS (vonkajšia, 5,65 USD), pigtail (1,90 USD) pri 100 ks; bezplatné testy Synzen | potvrdiť vzorky a testy | ponuka do 2026-12-24 | [tekmodul](vyrobcovia/tekmodul/) |
+| Raicky (Čína) – **káble** | kontakt | Jerry Zhu (szzrk@raicky.com, +86 135 7081 1658) | káble, typ upresniť | poslať špecifikáciu káblov a množstvá | doplniť | [raicky](vyrobcovia/raicky/) |
 
 Spoločné požiadavky pre všetkých výrobcov: [EPS-BAT-SPEC v2.0](podklady/EPS-BAT-SPEC_v2-0_sk.md) (na odoslanie [PDF v angličtine](podklady/EPS-BAT-SPEC_v2-0_en.pdf)).
