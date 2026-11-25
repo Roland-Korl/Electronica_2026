@@ -2,11 +2,11 @@
 
 | | |
 |---|---|
-| **Stav** | kontakt |
+| **Stav** | pozastavene |
 | **Web** | www.raicky.com |
 | **Krajina / mesto** | Čína, Shenzhen |
 | **Stretli sme sa** | Electronica 2026, Mníchov, stánok Raicky (číslo stánku doplniť) |
-| **Ďalší krok** | upresniť, aké káble potrebujeme, a poslať špecifikáciu a množstvá |
+| **Ďalší krok** | žiadny; prípadne krátka zdvorilá odpoveď, že káble teraz nepotrebujeme |
 | **Termín** | doplniť |
 
 ## Kontaktné osoby
@@ -29,9 +29,10 @@
 
 ## Zhrnutie rokovania
 
+- 2026-11-25: Roland si nepamätá rozhovor o kábloch; pravdepodobne všeobecný e-mail po veľtrhu (napr. z naskenovaného menovky). Pozastavené.
 - 2026-11-25: Jerry sa ozval po veľtrhu, poslal prezentáciu a zoznam produktov, ponúka cenovú ponuku ([záznam](komunikacia/2026-11-25_email_jerry-kable-uvod.md)).
 
 ## Otvorené otázky
 
-- [ ] Aké káble potrebujeme (typ, konektory, dĺžka, množstvo)?
+- [ ] Káble zatiaľ nepotrebujeme; ozvať sa len pri konkrétnej potrebe.
 - [ ] Doplniť prílohy (prezentácia, zoznam produktov).
