@@ -50,3 +50,19 @@ Roland Korl
 E.P.S. Germany GmbH
 
 Po slovensky: Ďakujem za e-mail, rád som vás spoznal v Mníchove. Zaujímajú nás tieto káble: [typ kábla, konektory, dĺžka, množstvo]. Pošlite nám, prosím, ponuku pre 100 / 1 000 / 5 000 ks, dodaciu lehotu a vzorky (5 ks z každého typu).
+
+## Odpoveď (Roland si rozhovor nepamätá)
+
+> Dear Jerry,
+>
+> Thank you for your e-mail and for remembering me from Munich.
+>
+> To be honest, I do not remember talking about cables at your booth. Maybe one of my colleagues asked you about cables. Could you please tell me more about your company and your products: what kinds of cables and cable assemblies you make, which connectors you work with, and for which applications? If you remember what we talked about, or who from our team spoke with you, please let me know.
+>
+> I will then check with my colleagues if we have a need.
+>
+> Best regards,
+> Roland Korl
+> E.P.S. Germany GmbH
+
+Po slovensky: Ďakujem za e-mail a za to, že si ma pamätáte z Mníchova. Úprimne si nepamätám, že by sme sa na vašom stánku rozprávali o kábloch. Možno sa na káble pýtal niektorý z mojich kolegov. Môžete mi povedať viac o vašej firme a produktoch: aké káble a káblové zväzky vyrábate, s akými konektormi pracujete a pre aké použitie? Ak si pamätáte, o čom sme hovorili, alebo kto z nášho tímu s vami hovoril, dajte mi vedieť. Potom sa opýtam kolegov, či niečo potrebujeme.
