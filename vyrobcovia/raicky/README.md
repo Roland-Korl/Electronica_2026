@@ -6,7 +6,7 @@
 | **Web** | www.raicky.com |
 | **Krajina / mesto** | Čína, Shenzhen |
 | **Stretli sme sa** | Electronica 2026, Mníchov, stánok Raicky (číslo stánku doplniť) |
-| **Ďalší krok** | vypýtať ponuku na Amphenol LTW MSXS-08PFFR-SF7003 (originál alebo náhrada) |
+| **Ďalší krok** | porovnať výkresy Raicky s Amphenol MSXS-08PFFR-SF7003, potom vypýtať ceny |
 | **Termín** | doplniť |
 
 ## Kontaktné osoby
@@ -33,6 +33,7 @@
 
 ## Zhrnutie rokovania
 
+- 2026-11-26: Jerry poslal výkresy: zásuvka M12 X do dosky (120708-04-049) a kábel M12 X – RJ45, Cat6A, 2 m a 5 m ([záznam](komunikacia/2026-11-26_email_jerry-vykresy-M12-X.md)). Je to čínska náhrada (výkresy firmy Signal), nie originál Amphenol.
 - 2026-11-26: Vyjasnené: ide o konektor Amphenol LTW MSXS-08PFFR-SF7003 pre prepäťovú ochranu 10 Gbit LAN.
 - 2026-11-26: Jerry poslal prehľad a prezentáciu: spotrebné káble (USB, HDMI, Lightning, audio), e-mail obsahuje nevyplnenú šablónu ([záznam](komunikacia/2026-11-26_email_jerry-prehlad-firmy.md)). Pozastavené.
 - 2026-11-25: Roland si nepamätá rozhovor o kábloch; pravdepodobne všeobecný e-mail po veľtrhu (napr. z naskenovaného menovky). Poslaná otázka, aké káble robia a s kým z nášho tímu hovorili.
@@ -40,6 +41,8 @@
 
 ## Otvorené otázky
 
+- [ ] Porovnať rozmery, výrez v paneli a rozloženie pinov zásuvky 120708-04-049 s Amphenol MSXS-08PFFR-SF7003.
+- [ ] Vyjasniť: SMT alebo THT, krytie IP, Cat6A / 10 Gbit, teplota (−25 °C).
 - [ ] Ponuka na MSXS-08PFFR-SF7003: originál Amphenol LTW alebo náhrada? Cena, lehota, vzorky; porovnať s autorizovaným distribútorom (Mouser a pod.).
 
 - [ ] Zistiť od Jerryho, aké káble robia a s kým hovorili; potom sa opýtať kolegov, či niekto káble potrebuje.
