@@ -37,6 +37,7 @@ Na strane EPS: pôvodne kolega p. Antal, teraz preberá **Roland Korl (vedúci I
 
 ## Zhrnutie rokovania
 
+- 2026-11-26: vzor NDA Synzen (taiwanské právo), dátový list TARVOS (195 × Ø13 mm, −30 až +65 °C), podklady na testy: krabica, osadená doska, typ batérie; vzorky v 1. januárovom týždni ([záznam](komunikacia/2026-11-26_email_heinisch-nda-tarvos.md)).
 - 2026-11-25: ponuka TM105075; Synzen odporúča ELNATH a TARVOS a ponúka bezplatné testy antén v našom dizajne ([záznam](komunikacia/2026-11-25_email_heinisch-ponuka-TM105075.md)).
 - 2026-11-24: Taoglas nepredávajú; navrhujú Synzen LALANDE (FPC, MHF1) a CALLISTO1 / TARVOS (vonkajšie, SMA) plus pigtaily; vzorky LALANDE a CALLISTO hneď ([záznam](komunikacia/2026-11-24_email_heinisch-lalande-callisto.md)).
 - 2026-11-23: p. Heinisch ďakuje za návštevu, navrhuje ELNATH ako alternatívu k FXUB63, ponúka vzorky a ponuku, pýta sa na frekvenčný rozsah ([záznam](komunikacia/2026-11-23_email_heinisch-anteny.md)).
@@ -48,5 +49,8 @@ Na strane EPS: pôvodne kolega p. Antal, teraz preberá **Roland Korl (vedúci I
 - [x] Konektor MHF1 (U.FL); FPC max. ako FXUB63; vonkajšia anténa čo najmenšia (ideálne ako minca 2 €) na hliníkovú krabicu; pigtail do 150 mm.
 - [x] Ponuka pre 100 / 1 000 / 5 000 ks (TM105075).
 - [ ] Potvrdiť vzorky (ELNATH, LALANDE, TARVOS po 5 ks) a doplniť 5 pigtailov.
-- [ ] Rozmer TARVOS a konektor ELNATH (MHFa1 alebo MHF1 / U.FL?).
+- [x] Rozmer TARVOS: 195 × Ø13 mm, prevádzka len −30 až +65 °C (nevyhovuje); vypýtať menšiu vonkajšiu anténu do −40 °C.
+- [ ] Konektor ELNATH (MHFa1 alebo MHF1 / U.FL?).
+- [ ] NDA: rozhodnúť (vzor Synzen s taiwanským právom alebo vlastná NDA), zahrnúť tekmodul, podpis konateľom.
+- [ ] Pripraviť na testy krabicu, osadenú dosku, typ a umiestnenie batérie.
 - [ ] Prijať bezplatné testy Synzen; zistiť, čo potrebujú (krabica, doska), zvážiť NDA.
