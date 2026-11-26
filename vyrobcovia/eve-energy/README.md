@@ -37,4 +37,4 @@
 ## Otvorené otázky
 
 - [ ] Poslať Sandy EPS-BAT-SPEC v2.0; vysvetliť, že ER18505 nahradil pack 19 Ah.
-- [ ] Odpoveď Ashley netreba (správny kontakt je Sandy).
+- [x] Požiadavka už poslaná aj Ashley; Sandy a Ashley sa majú dohodnúť na jednej kontaktnej osobe.
