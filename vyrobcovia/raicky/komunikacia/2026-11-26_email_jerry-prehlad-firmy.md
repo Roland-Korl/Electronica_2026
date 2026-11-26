@@ -53,3 +53,27 @@ Snímky s produktmi: USB 2.0, USB 3.0, USB-C na Lightning a USB-C na USB-C, opti
 - **E-mail nesedí s prezentáciou.** E-mail sľubuje priemyselné káblové zväzky (Molex, TE, Harting, robotika, zdravotníctvo), prezentácia ukazuje **spotrebné káble** (USB, HDMI, Lightning, audio, nabíjačky).
 - V e-maile ostali **nevyplnené časti šablóny**: „[Your Company Name]" a „[Optional: Automotive / Renewable Energy / Aerospace]". Text bol zrejme vygenerovaný a neupravený.
 - Pre naše zariadenia (M12, anténne pigtaily, kabeláž s JST XH vo vonkajšom prostredí) tento sortiment podľa prezentácie nevyzerá vhodne.
+
+## Vyjasnenie (Roland, 2026-11-26)
+
+Rozhovor bol o **špeciálnom konektore pre našu prepäťovú ochranu 10 Gbit LAN**: **Amphenol LTW MSXS-08PFFR-SF7003**. Roland ich oslovil, lebo uvádzajú spoluprácu s Amphenolom.
+
+Poznámky (môj záver):
+- Údaje o konektore som neoveril (stránky Mouser a Amphenol LTW nie sú z tejto relácie dostupné). Podľa mojej znalosti je séria MSXS od Amphenol LTW rad kruhových konektorov M12 s kódovaním X pre 10 Gbit Ethernet; treba overiť v dátovom liste.
+- Zmienka o Amphenole bola v časti e-mailu, ktorá vyzerá ako nevyplnená šablóna; prezentácia Raicky Amphenol neuvádza. Pri konkrétnom originálnom diele je bezpečnejšie kúpiť ho od autorizovaného distribútora (Mouser, Digi-Key, Farnell, TTI); od Raicky si vypýtať porovnávaciu ponuku a výslovne sa opýtať, či ide o originál Amphenol alebo kompatibilnú náhradu.
+
+## Odpoveď (po anglicky)
+
+> Dear Jerry,
+>
+> Thank you for the information. Now I remember: we were looking for a special connector for our 10 Gbit LAN surge protector.
+>
+> We need the Amphenol LTW connector MSXS-08PFFR-SF7003. Can you supply this part? Please tell us if you offer the original Amphenol LTW part or a compatible equivalent (if equivalent, please send the datasheet). Could you also offer a cable assembly with the mating connector?
+>
+> Please send us a quotation for [quantity] pcs, and for 100 / 1,000 pcs, with the lead time and samples (5 pcs).
+>
+> Best regards,
+> Roland Korl
+> E.P.S. Germany GmbH
+
+Po slovensky: Ďakujem za informácie. Už si spomínam: hľadali sme špeciálny konektor pre našu prepäťovú ochranu 10 Gbit LAN. Potrebujeme konektor Amphenol LTW MSXS-08PFFR-SF7003. Viete tento diel dodať? Povedzte nám, či ponúkate originál Amphenol LTW, alebo kompatibilnú náhradu (pri náhrade pošlite dátový list). Viete ponúknuť aj káblovú zostavu s protikusom? Pošlite ponuku pre [množstvo] ks a pre 100 / 1 000 ks s dodacou lehotou a vzorky (5 ks).
