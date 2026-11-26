@@ -17,7 +17,8 @@
 
 ## Čo nás zaujíma
 
-- **Konektor Amphenol LTW MSXS-08PFFR-SF7003** pre prepäťovú ochranu 10 Gbit LAN (dôvod oslovenia na veľtrhu).
+- **Konektor Amphenol LTW MSXS-08PFFR-SF7003** pre prepäťovú ochranu 10 Gbit LAN (dôvod oslovenia na veľtrhu): 10 ks na testy.
+- **Kábel M12 X-kódovaný na RJ45** (10 Gbit, Cat6A), dĺžky podľa zákazníka; na testy 5 ks po 2 m.
 
 - Sortiment podľa prezentácie: spotrebné káble USB 2.0 / 3.0, USB-C, Lightning, HDMI (aj optické), VGA, SATA, audio, nabíjačky ([prezentácia](dokumenty/2026-11-26_Raicky_prezentacia-firmy.pptx)).
 - Káble (typ treba upresniť). Kandidáti: M12 kód A 4-pin pre externú 12 V batériu, anténny pigtail SMA–U.FL, kabeláž s JST XH.
@@ -40,7 +41,6 @@
 ## Otvorené otázky
 
 - [ ] Ponuka na MSXS-08PFFR-SF7003: originál Amphenol LTW alebo náhrada? Cena, lehota, vzorky; porovnať s autorizovaným distribútorom (Mouser a pod.).
-- [ ] Potrebné množstvo konektorov (doplniť).
 
 - [ ] Zistiť od Jerryho, aké káble robia a s kým hovorili; potom sa opýtať kolegov, či niekto káble potrebuje.
 - [ ] Doplniť prílohy (prezentácia, zoznam produktov).

@@ -77,3 +77,23 @@ Poznámky (môj záver):
 > E.P.S. Germany GmbH
 
 Po slovensky: Ďakujem za informácie. Už si spomínam: hľadali sme špeciálny konektor pre našu prepäťovú ochranu 10 Gbit LAN. Potrebujeme konektor Amphenol LTW MSXS-08PFFR-SF7003. Viete tento diel dodať? Povedzte nám, či ponúkate originál Amphenol LTW, alebo kompatibilnú náhradu (pri náhrade pošlite dátový list). Viete ponúknuť aj káblovú zostavu s protikusom? Pošlite ponuku pre [množstvo] ks a pre 100 / 1 000 ks s dodacou lehotou a vzorky (5 ks).
+
+## Upresnenie a finálna odpoveď (2026-11-26)
+
+Potreba: **10 ks konektora** MSXS-08PFFR-SF7003 na testy; **kábel M12 X-kódovaný na RJ45** (10 Gbit) v rôznych dĺžkach podľa zákazníka, na testy pár kusov po **2 m**.
+
+> Dear Jerry,
+>
+> Thank you for the information. Now I remember: we were looking for a special connector for our 10 Gbit LAN surge protector.
+>
+> We need:
+> 1. Connector Amphenol LTW MSXS-08PFFR-SF7003: 10 pcs for our tests. Please tell us if you offer the original Amphenol LTW part or a compatible equivalent (if equivalent, please send the datasheet).
+> 2. Cable M12 X-coded (mating connector to the MSXS-08PFFR-SF7003) to RJ45, for 10 Gbit Ethernet (Cat6A): for our tests 5 pcs with 2 m length. Later we will need different lengths according to our customers' requirements, so please also tell us which lengths are possible and the price per length.
+>
+> Please send us a quotation with the lead time, and also indicative prices for 100 and 1,000 pcs.
+>
+> Best regards,
+> Roland Korl
+> E.P.S. Germany GmbH
+
+Po slovensky: Ďakujem za informácie. Už si spomínam: hľadali sme špeciálny konektor pre našu prepäťovú ochranu 10 Gbit LAN. Potrebujeme: 1. konektor Amphenol LTW MSXS-08PFFR-SF7003, 10 ks na testy; povedzte, či ide o originál alebo kompatibilnú náhradu (pri náhrade pošlite dátový list); 2. kábel M12 X-kódovaný (protikus ku konektoru MSXS-08PFFR-SF7003) na RJ45 pre 10 Gbit Ethernet (Cat6A): na testy 5 ks s dĺžkou 2 m. Neskôr budeme potrebovať rôzne dĺžky podľa požiadaviek zákazníkov, preto napíšte aj, aké dĺžky sú možné a cenu podľa dĺžky. Pošlite ponuku s dodacou lehotou a orientačné ceny pre 100 a 1 000 ks.
