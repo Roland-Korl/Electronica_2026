@@ -41,7 +41,8 @@
 
 ## Otvorené otázky
 
-- [ ] Porovnať rozmery, výrez v paneli a rozloženie pinov zásuvky 120708-04-049 s Amphenol MSXS-08PFFR-SF7003.
+- [x] Porovnanie s Amphenol MSXS-08PFFR-SF7003 ([porovnanie](navrhy/porovnanie_M12-X_Raicky-vs-Amphenol.md)): výrez v paneli, raster na doske a výška osi sedia.
+- [ ] Overiť číslovanie pinov, vzdialenosť panel – doska, hrúbku panelu, IP67, pozlátené piny, 10 Gbit; osadiť vzorky na našu dosku.
 - [ ] Vyjasniť: SMT alebo THT, krytie IP, Cat6A / 10 Gbit, teplota (−25 °C).
 - [ ] Ponuka na MSXS-08PFFR-SF7003: originál Amphenol LTW alebo náhrada? Cena, lehota, vzorky; porovnať s autorizovaným distribútorom (Mouser a pod.).
 
