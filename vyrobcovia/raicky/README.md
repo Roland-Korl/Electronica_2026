@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Stav** | kontakt |
+| **Stav** | ponuka |
 | **Web** | www.raicky.com |
 | **Krajina / mesto** | Čína, Shenzhen |
 | **Stretli sme sa** | Electronica 2026, Mníchov, stánok Raicky (číslo stánku doplniť) |
@@ -25,14 +25,15 @@
 
 ## Obchodné podmienky
 
-- Cena / cenník: zatiaľ nie
+- Cena / cenník ([ponuka 20261127](navrhy/2026-11-27_raicky_ponuka_20261127.pdf), USD, EXW): zásuvka 15,15 (10 ks) / 10,23 (100) / 8,18 (1 000); kábel 2 m 24,24 (5 ks) / 17,05 (100) / 13,18 (1 000); kábel 5 m 23,18 (100) / 19,32 (1 000). Vzorky 10 + 5 ks spolu 322,70 USD vrátane leteckej dopravy.
 - MOQ (min. množstvo): zatiaľ nie
-- Dodacia lehota: zatiaľ nie
+- Dodacia lehota: vzorky 15 pracovných dní, ostatné 25 pracovných dní (+ doprava)
 - Platobné podmienky: zatiaľ nie
 - Exkluzivita / distribúcia: zatiaľ nie
 
 ## Zhrnutie rokovania
 
+- 2026-11-27: cenová ponuka 20261127 ([záznam](komunikacia/2026-11-27_email_jerry-ponuka.md)).
 - 2026-11-27: Jerry potvrdil IEC 61076-2-109, IP67, pozlátené piny, DIP; panel max. 1,5 mm, 4,1 mm od panelu k pinom; poslal test Fluke 10GBASE-T (PASS) ([záznam](komunikacia/2026-11-27_email_jerry-odpovede-M12-X.md)).
 - 2026-11-26: Jerry poslal výkresy: zásuvka M12 X do dosky (120708-04-049) a kábel M12 X – RJ45, Cat6A, 2 m a 5 m ([záznam](komunikacia/2026-11-26_email_jerry-vykresy-M12-X.md)). Je to čínska náhrada (výkresy firmy Signal), nie originál Amphenol.
 - 2026-11-26: Vyjasnené: ide o konektor Amphenol LTW MSXS-08PFFR-SF7003 pre prepäťovú ochranu 10 Gbit LAN.
@@ -45,7 +46,8 @@
 - [x] Porovnanie s Amphenol MSXS-08PFFR-SF7003 ([porovnanie](navrhy/porovnanie_M12-X_Raicky-vs-Amphenol.md)): výrez v paneli, raster na doske a výška osi sedia.
 - [x] Potvrdené: IEC 61076-2-109, IP67, pozlátené piny, 10 Gbit (test Fluke), DIP.
 - [x] Hrúbka steny krabice: Raicky max. 1,5 mm; krabica ešte nie je vyrobená, stenu pri konektore prispôsobíme (Roland, 2026-11-27).
-- [ ] Vypýtať cenovú ponuku (10 ks konektora, 5 ks kábla 2 m, orientačne 100 / 1 000 ks, 5 m).
+- [x] Cenová ponuka prišla (2026-11-27).
+- [ ] Vyjasniť dopravu 5 m káblov, clo a DPH (EXW, door-to-door) a platobné podmienky.
 - [ ] Osadiť vzorky na našu dosku (rozdiel 4,1 vs. 4,30 mm od panelu).
 - [ ] Teplota −25 °C (ak treba nižšiu).
 - [ ] Ponuka na MSXS-08PFFR-SF7003: originál Amphenol LTW alebo náhrada? Cena, lehota, vzorky; porovnať s autorizovaným distribútorom (Mouser a pod.).
