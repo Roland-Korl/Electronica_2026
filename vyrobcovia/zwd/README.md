@@ -3,10 +3,10 @@
 | | |
 |---|---|
 | **Stav** | pozastavene |
-| **Web** | neuvedený |
+| **Web** | www.zhongwangde.com |
 | **Krajina / mesto** | Čína, Zhongshan (továreň), Shenzhen (kancelária) |
 | **Stretli sme sa** | Electronica 2026, Mníchov, stánok ZWD |
-| **Ďalší krok** | žiadny (nerobia primárne batérie) |
+| **Ďalší krok** | žiadny; kontakt pre budúce nabíjateľné batérie |
 | **Termín** | – |
 
 ## Kontaktné osoby
@@ -17,6 +17,7 @@
 
 ## Čo nás zaujíma
 
+- **Rezervný kontakt pre nabíjateľné batérie** (Li-polymér, Li-ion), ak ich budeme v budúcnosti potrebovať. [Profil a zoznam článkov](dokumenty/ZWD_profil_sk.md).
 - Nič aktuálne. Robia **nabíjateľné Li-polymér batérie** do 5 000 mAh pre nositeľnú a spotrebnú elektroniku; primárne batérie nie.
 
 ## Zhrnutie rokovania
