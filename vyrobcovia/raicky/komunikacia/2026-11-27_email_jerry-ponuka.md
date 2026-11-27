@@ -36,3 +36,23 @@ Súčet ponuky 45 998,70 USD + doprava 7 124,00 USD je len súčet všetkých ri
 - **EXW a „od dverí k dverám":** nie je jasné, kto platí clo a dovozné DPH v Nemecku. Pravdepodobne my (nie DDP). Treba potvrdiť.
 - **Platobné podmienky** v ponuke nie sú.
 - **Porovnanie s originálom Amphenol** nemám (Mouser odtiaľto nie je dostupný). Odporúčam pozrieť cenu MSXS-08PFFR-SF7003 na Mouseri; ak je originál podobne drahý, môže byť výhodnejší kvôli istote.
+
+## Vyhodnotenie (Roland)
+
+Originál Amphenol LTW MSXS-08PFFR-SF7003 vyšiel z Mousera **10 ks za asi 110 € so všetkým** (asi 11 €/ks). Ponuka Raicky na čínsku náhradu je drahšia ako originál (15,15 USD/ks pri 10 ks + doprava). Očakávaná cena náhrady bola **asi 3–4 USD/ks**. V tejto podobe ponuku neberieme.
+
+## Odpoveď (po anglicky)
+
+> Dear Jerry,
+>
+> Thank you for the quotation and for all the technical information.
+>
+> To be honest, the prices are much too high for us. We buy the original Amphenol LTW MSXS-08PFFR-SF7003 from an authorized distributor in Germany for about EUR 11 per piece for 10 pieces, including shipping. An equivalent connector cannot be more expensive than the original. Our target price for your connector is USD 3–4 per piece, and the cable prices should be reduced accordingly.
+>
+> If you can offer prices at this level, we are happy to continue and to order samples. Otherwise, we are sorry, but we cannot accept this quotation.
+>
+> Best regards,
+> Roland Korl
+> E.P.S. Germany GmbH
+
+Po slovensky: Ďakujem za ponuku a za všetky technické informácie. Úprimne, ceny sú pre nás oveľa príliš vysoké. Originál Amphenol kupujeme od autorizovaného distribútora v Nemecku za asi 11 € za kus pri 10 kusoch vrátane dopravy. Náhrada nemôže byť drahšia ako originál. Naša cieľová cena za váš konektor je 3–4 USD za kus a ceny káblov by sa mali primerane znížiť. Ak viete ponúknuť ceny na tejto úrovni, radi budeme pokračovať a objednáme vzorky. Inak nám je ľúto, ale túto ponuku prijať nemôžeme.

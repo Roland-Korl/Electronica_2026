@@ -33,6 +33,7 @@
 
 ## Zhrnutie rokovania
 
+- 2026-11-27: ponuka zamietnutá: drahšia ako originál Amphenol z Mousera (10 ks asi 110 € so všetkým); cieľová cena 3–4 USD/ks.
 - 2026-11-27: cenová ponuka 20261127 ([záznam](komunikacia/2026-11-27_email_jerry-ponuka.md)).
 - 2026-11-27: Jerry potvrdil IEC 61076-2-109, IP67, pozlátené piny, DIP; panel max. 1,5 mm, 4,1 mm od panelu k pinom; poslal test Fluke 10GBASE-T (PASS) ([záznam](komunikacia/2026-11-27_email_jerry-odpovede-M12-X.md)).
 - 2026-11-26: Jerry poslal výkresy: zásuvka M12 X do dosky (120708-04-049) a kábel M12 X – RJ45, Cat6A, 2 m a 5 m ([záznam](komunikacia/2026-11-26_email_jerry-vykresy-M12-X.md)). Je to čínska náhrada (výkresy firmy Signal), nie originál Amphenol.
@@ -47,7 +48,7 @@
 - [x] Potvrdené: IEC 61076-2-109, IP67, pozlátené piny, 10 Gbit (test Fluke), DIP.
 - [x] Hrúbka steny krabice: Raicky max. 1,5 mm; krabica ešte nie je vyrobená, stenu pri konektore prispôsobíme (Roland, 2026-11-27).
 - [x] Cenová ponuka prišla (2026-11-27).
-- [ ] Vyjasniť dopravu 5 m káblov, clo a DPH (EXW, door-to-door) a platobné podmienky.
+- [ ] Nová ponuka na úrovni 3–4 USD/ks za zásuvku (originál Amphenol z Mousera asi 11 €/ks pri 10 ks).
 - [ ] Osadiť vzorky na našu dosku (rozdiel 4,1 vs. 4,30 mm od panelu).
 - [ ] Teplota −25 °C (ak treba nižšiu).
 - [ ] Ponuka na MSXS-08PFFR-SF7003: originál Amphenol LTW alebo náhrada? Cena, lehota, vzorky; porovnať s autorizovaným distribútorom (Mouser a pod.).
