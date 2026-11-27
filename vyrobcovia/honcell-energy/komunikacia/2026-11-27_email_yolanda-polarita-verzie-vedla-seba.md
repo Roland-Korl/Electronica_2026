@@ -51,3 +51,26 @@
 - Napätie pri 150 mA a −40 °C a využiteľnú kapacitu zatiaľ nemajú; otestujú po objednaní vzoriek.
 - **Ceny stále chýbajú**, aj dátové listy.
 - Vzorky: 25 dní, 3–5 ks ručne vyrobených.
+
+## Odpoveď (vzorky všetkých 4 verzií po 5 ks)
+
+> Dear Yolanda,
+>
+> Thank you for the confirmation of the polarity and for the side-by-side versions. Both fit our requirements.
+>
+> Could you please send us now:
+> 1. The datasheets and drawings of all versions.
+> 2. Prices for 5 / 100 / 1,000 / 5,000 pcs, with the delivery terms (Incoterms) and the shipping cost to Germany.
+> 3. A quotation for samples, 5 pcs of each of these four versions (20 pcs in total):
+>    - Pack A straight (HCER26500ZC + UPC1520)
+>    - Pack A side-by-side (HCER26500FC + UPC1520)
+>    - Pack B straight (HCER34615ZC + UPC1520)
+>    - Pack B side-by-side (HCER34615FC + UPC1520)
+>
+> We would be glad if you could test the voltage at 150 mA and -40 °C after the sample order, as you offered.
+>
+> Best regards,
+> Roland Korl
+> E.P.S. Germany GmbH
+
+Po slovensky: vzorky po 5 ks zo všetkých štyroch verzií (pack A rúrka, pack A vedľa seba, pack B rúrka, pack B vedľa seba), spolu 20 ks.
