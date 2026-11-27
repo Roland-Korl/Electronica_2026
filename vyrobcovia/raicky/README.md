@@ -33,6 +33,7 @@
 
 ## Zhrnutie rokovania
 
+- 2026-11-27: Jerry potvrdil IEC 61076-2-109, IP67, pozlátené piny, DIP; panel max. 1,5 mm, 4,1 mm od panelu k pinom; poslal test Fluke 10GBASE-T (PASS) ([záznam](komunikacia/2026-11-27_email_jerry-odpovede-M12-X.md)).
 - 2026-11-26: Jerry poslal výkresy: zásuvka M12 X do dosky (120708-04-049) a kábel M12 X – RJ45, Cat6A, 2 m a 5 m ([záznam](komunikacia/2026-11-26_email_jerry-vykresy-M12-X.md)). Je to čínska náhrada (výkresy firmy Signal), nie originál Amphenol.
 - 2026-11-26: Vyjasnené: ide o konektor Amphenol LTW MSXS-08PFFR-SF7003 pre prepäťovú ochranu 10 Gbit LAN.
 - 2026-11-26: Jerry poslal prehľad a prezentáciu: spotrebné káble (USB, HDMI, Lightning, audio), e-mail obsahuje nevyplnenú šablónu ([záznam](komunikacia/2026-11-26_email_jerry-prehlad-firmy.md)). Pozastavené.
@@ -42,8 +43,10 @@
 ## Otvorené otázky
 
 - [x] Porovnanie s Amphenol MSXS-08PFFR-SF7003 ([porovnanie](navrhy/porovnanie_M12-X_Raicky-vs-Amphenol.md)): výrez v paneli, raster na doske a výška osi sedia.
-- [ ] Overiť číslovanie pinov, vzdialenosť panel – doska, hrúbku panelu, IP67, pozlátené piny, 10 Gbit; osadiť vzorky na našu dosku.
-- [ ] Vyjasniť: SMT alebo THT, krytie IP, Cat6A / 10 Gbit, teplota (−25 °C).
+- [x] Potvrdené: IEC 61076-2-109, IP67, pozlátené piny, 10 Gbit (test Fluke), DIP.
+- [ ] **Hrúbka steny krabice: Raicky max. 1,5 mm** (Amphenol 1–4 mm); zmerať.
+- [ ] Osadiť vzorky na našu dosku (rozdiel 4,1 vs. 4,30 mm od panelu).
+- [ ] Teplota −25 °C (ak treba nižšiu).
 - [ ] Ponuka na MSXS-08PFFR-SF7003: originál Amphenol LTW alebo náhrada? Cena, lehota, vzorky; porovnať s autorizovaným distribútorom (Mouser a pod.).
 
 - [ ] Zistiť od Jerryho, aké káble robia a s kým hovorili; potom sa opýtať kolegov, či niekto káble potrebuje.
