@@ -44,7 +44,8 @@
 
 - [x] Porovnanie s Amphenol MSXS-08PFFR-SF7003 ([porovnanie](navrhy/porovnanie_M12-X_Raicky-vs-Amphenol.md)): výrez v paneli, raster na doske a výška osi sedia.
 - [x] Potvrdené: IEC 61076-2-109, IP67, pozlátené piny, 10 Gbit (test Fluke), DIP.
-- [ ] **Hrúbka steny krabice: Raicky max. 1,5 mm** (Amphenol 1–4 mm); zmerať.
+- [x] Hrúbka steny krabice: Raicky max. 1,5 mm; krabica ešte nie je vyrobená, stenu pri konektore prispôsobíme (Roland, 2026-11-27).
+- [ ] Vypýtať cenovú ponuku (10 ks konektora, 5 ks kábla 2 m, orientačne 100 / 1 000 ks, 5 m).
 - [ ] Osadiť vzorky na našu dosku (rozdiel 4,1 vs. 4,30 mm od panelu).
 - [ ] Teplota −25 °C (ak treba nižšiu).
 - [ ] Ponuka na MSXS-08PFFR-SF7003: originál Amphenol LTW alebo náhrada? Cena, lehota, vzorky; porovnať s autorizovaným distribútorom (Mouser a pod.).
