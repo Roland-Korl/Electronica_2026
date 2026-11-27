@@ -74,3 +74,13 @@
 > E.P.S. Germany GmbH
 
 Po slovensky: vzorky po 5 ks zo všetkých štyroch verzií (pack A rúrka, pack A vedľa seba, pack B rúrka, pack B vedľa seba), spolu 20 ks.
+
+## Odpoveď Yolandy (2026-11-27, neskôr)
+
+> Hi Roland, Thank you for the reply. We are verifying the quotation and datasheet with our finance department and technical department. I will update you as soon as possible. Thanks for your understanding. And wish you a great weekend. Best Regards, Yolanda Zou
+
+Preklad:
+
+> Dobrý deň, Roland, ďakujem za odpoveď. Cenovú ponuku a dátový list práve overujeme s finančným a technickým oddelením. Ozvem sa čo najskôr. Ďakujem za pochopenie a prajem pekný víkend.
+
+Čakáme na ponuku a dátové listy.
