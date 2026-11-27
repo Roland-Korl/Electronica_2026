@@ -22,24 +22,27 @@
 
 - Návrh Honcell (2026-11-26, [záznam](komunikacia/2026-11-26_email_yolanda-navrh-packov-A-B.md)): **pack A HCER26500ZC + UPC1520** 8 500 mAh, Ø28 × 80 mm, 150 mA trvalo, −55 … +85 °C; **pack B HCER34615ZC + UPC1520** 19 000 mAh, Ø35 × 80 mm, 250 mA trvalo, −40 … +85 °C; oba JST XHP-02 s obrátenou polaritou (reversed polarity), UL3302 AWG24, 150 mm.
 
+- Verzie vedľa seba (2026-11-27, [záznam](komunikacia/2026-11-27_email_yolanda-polarita-verzie-vedla-seba.md)): **pack A HCER26500FC + UPC1520** 27 × 41 × 51 mm, 70 g; **pack B HCER34615FC + UPC1520** 34 × 48 × 61,5 mm, 120 g. Polarita: pin 1 = plus (červený).
+
 ## Obchodné podmienky
 
 - Cena / cenník: zatiaľ nie
 - MOQ (min. množstvo): zatiaľ nie
-- Dodacia lehota: zatiaľ nie
+- Dodacia lehota: vzorky 25 dní (3–5 ks ručne vyrobených)
 - Platobné podmienky: zatiaľ nie
 - Exkluzivita / distribúcia: zatiaľ nie
 
 ## Zhrnutie rokovania
 
+- 2026-11-27: potvrdená polarita, poslané verzie vedľa seba pre A aj B; testy napätia po objednaní vzoriek; ceny zatiaľ nie.
 - 2026-11-26: Honcell navrhol pack A (HCER26500ZC) a pack B (HCER34615ZC), oba ako rúrka; pack B sa do 65 mm nezmestí.
 - 2026-11-18: Yolanda poslala návrh HCER26500 + UPC1520 podľa pôvodného dopytu (Ø28 × 80 mm) a pýta sa na montáž (skladáme sami alebo hotový pack) a na pripojenie výstupu.
 
 ## Otvorené otázky
 
 - [x] EPS-BAT-SPEC v2.0 poslaná, návrh pre oba packy prišiel (2026-11-26).
-- [ ] Obrátená polarita (reversed polarity): potvrdiť pin 1 = + (červený), pin 2 = − (čierny).
-- [ ] Pack B vo verzii vedľa seba do 65 × 50 × 38 mm a 120 g; pack A aj vedľa seba.
+- [x] Polarita: pin 1 = plus (červený), pin 2 = mínus (čierny).
+- [x] Verzie vedľa seba: A 27 × 41 × 51 mm / 70 g, B 34 × 48 × 61,5 mm / 120 g (zmestí sa).
 - [ ] Dátové listy, hmotnosti, využiteľná kapacita pri profiloch A a B.
 - [ ] Trvalý prúd 150 mA je na hranici rádiovej relácie (≈ 130–150 mA až 7 min): potvrdiť napätie pri tejto záťaži a pri −40 °C.
 - [ ] Ceny, dodacie podmienky, lehota vzoriek.
